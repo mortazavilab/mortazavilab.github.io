@@ -1,120 +1,109 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    text: Mortazavi Lab at UC Irvine
+    title: Genomics, computation and sequencing
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Research"
+    text: "There are many diverse projects going on in the lab"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[ENCODE](https://www.encodeproject.org/)"
+        desc: "We are an ENCODE production lab and produce and analyze long-read and micro RNA-seq datasets for the consortium."
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "[Model AD](https://www.model-ad.org/)"
+        desc: "Working towards developing a more comprehensive mouse model for Alzheimer's Disease."
+        icon: fas fa-brain       
+      - title: "FSHD"
+        desc: "Understanding the mechanisms behind the pathology in Facioscapulohumeral muscular dystrophy."
+        icon: fas fa-male
+
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Software"
+    text: "Software produced by the lab used to analyze genomics data"
     section: portfolio
     
+team:
+    title: "People"
+    text: "Our wonderful team of graduate students possesses a diverse set of skills in both data generation and analysis."
+    # subtext: All of our all-star graduate students are proficient both at the bench and at the terminal! You guys rock!
+    section: team
+    people:
+      - name: "Fairlie Reese"
+        role: "Dev Cell PhD Student"
+        image: assets/img/team/fairlie.jpg
+        social:
+          - url: https://twitter.com/FairlieReese
+            icon: fab fa-twitter
+          - url: https://github.com/fairliereese
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/fairlie-reese-a930a5b7/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0002-9240-0102
+            icon: fab fa-orcid
+      - name: "Gabriela Balderrama-Gutierrez"
+        role: "Dev Cell PhD Student"
+        image: assets/img/team/gaby.jpg
+        social:
+          - url: https://twitter.com/Sakuxxy
+            icon: fab fa-twitter
+          - url: https://github.com/GabyBG
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/gabriela-balderrama-gutierrez-0b350914b/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0002-5794-4518
+            icon: fab fa-orcid
+      - name: "Elisabeth Rebboah"
+        role: "MCSB PhD Student"
+        image: assets/img/team/liz.jpg
+        social:
+          - url: https://twitter.com/LizRebboah
+            icon: fab fa-twitter
+          - url: https://github.com/erebboah
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
+            icon: fab fa-linkedin-in
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "News" 
+    text: "What's happening in the lab?"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Graduations"
+        year: "Spring 2020"
+        desc: "We celebrate the graduation of three of our PhD students this spring! Congratulations to Drs. Dana Wyman, Sorena Rahmanian, and Lorrayne Serra Clague! Best of luck to all of you."
+        image: assets/img/timeline/diploma.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "snRNA-seq FSHD2 publication"
+        year: "May 2020"
+        desc: "Kate and Mandy's single-nucleus FSHD2 study, entitled \"Single-nucleus RNA-seq identifies divergent populations of FSHD2 myotube nuclei\", was published in PLoS Genetics. Read it [here](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008754&rev=2)."
+        image: assets/img/timeline/muscle.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Narges joins the lab!"
+        year: "March 2020"
+        desc: "Narges, an MCSB PhD student, has officially joined the lab! Welcome! She is currently working as a bioinformatician working on the Model AD project."
+        image: assets/img/team/narges.jpg
+        alt: 
+        align: left
+      - title: "Hydra vulgaris opsin gene evolution and expression publication"
+        year: "December 2019"
+        desc: "Aide's Hydra opsin gene study, \"Molecular evolution and expression of opsin genes in Hydra vulgaris\", was published in BMC Genomics. You can read it [here](https://link.springer.com/article/10.1186/s12864-019-6349-y)."
+        image: assets/img/timeline/hydra.png
+        alt: 
+        align: right
+      - title: "Gene regulatory networks from scATAC and scRNA-seq linked SOM publication"
+        year: "November 2019"
+        desc: "Camden's gene-regulatory network study that uses linked SOMs on scATAC and scRNA-seq, \"Building gene regulatory networks from scATAC-seq and scRNA-seq using Linked Self Organizing Maps\", has been published in PLoS Computational Biology. You can read it [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6855564/)."
+        image: assets/img/timeline/grn_som.png
         alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: ""
 
 about:
     title: "About Us"
     text: "our story"
     section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"

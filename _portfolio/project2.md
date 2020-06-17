@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: TALON
+subtitle: Technology-agnostic long-read RNA-seq annotation
+image: assets/img/portfolio/talon_full.png
+alt: talon
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: TALON
+  subtitle: Long-read RNA-seq annotator
+  thumbnail: assets/img/portfolio/talon.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+TALON (**T**echnology-**A**gnostic **Lon**g-read) annotation software is designed to associate transcript identities to reads from long-read RNA-seq datasets. It works equally well for both PacBio and Oxford Nanopore data. It has currently be implemented by [ENCODE](http://encodeproject.org/) as a part of their uniform data-processing pipeline.
+
+Author: Dana Wyman, PhD
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- [TALON manuscript](https://www.biorxiv.org/content/10.1101/672931v2)
+- [TALON GitHub](https://github.com/mortazavilab/TALON)
+
 

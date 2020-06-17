@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt: 
+title: SOMatic
+subtitle: High-dimensional data clustering with SOMs
+image: assets/img/portfolio/somatic_full.png
+alt: somatic
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: SOMatic
+  subtitle: High-dimensional data clustering with SOMs
+  thumbnail: assets/img/portfolio/somatic.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+SOMatic can be used to cluster high-dimensional data from multiple data modalities into associated modules. Visualization tools enable the user to understand the data in different contexts.
+
+Author: Camden Jansen, PhD
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- [SOM publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6855564/)
+- [SOMatic GitHub](https://github.com/csjansen/SOMatic)
 

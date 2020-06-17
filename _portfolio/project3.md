@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+title: TranscriptClean
+subtitle: Variant-aware long-read RNA-seq error correction
+image: assets/img/portfolio/tc_full.png
+alt: tc
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: TranscriptClean
+  subtitle: Long-read RNA-seq error correction
+  thumbnail: assets/img/portfolio/tc.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+TranscriptClean is a tool used to correct mismatches, microindels, and noncanonical splice junctions in long reads in a variant-aware manner. It can be used to recover otherwise unusable reads in long read datasets.
+
+Author: Dana Wyman, PhD
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- [TranscriptClean publication](https://pubmed.ncbi.nlm.nih.gov/29912287/)
+- [TranscriptClean GitHub](https://github.com/mortazavilab/TranscriptClean)
 

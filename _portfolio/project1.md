@@ -1,18 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Swan
+subtitle: Graph-based visualization and analysis tools for transcriptomes
+image: assets/img/portfolio/swan_full.png
+alt: swangraph
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Swan
+  subtitle: Transcriptome analysis and visualization
+  thumbnail: assets/img/portfolio/swan.png
+
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Swan is a Python library for analyzing and visualizing transcriptomes, with long-read transcriptomes in mind. Swan can find differentially-expressed genes and transcripts, isoform-switching genes, and novel exon skipping and intron retention events. 
+
+Author: Fairlie Reese
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- [Swan manuscript](https://www.biorxiv.org/content/10.1101/2020.06.09.143024v1)
+- [Swan website](https://freese.gitbook.io/swan/)
+- [Swan GitHub](https://github.com/mortazavilab/swan_vis)
 
