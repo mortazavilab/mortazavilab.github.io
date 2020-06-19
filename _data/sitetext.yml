@@ -25,10 +25,18 @@ portfolio:
     
 team:
     title: "People"
-    text: "Our wonderful team of graduate students possesses a diverse set of skills in both data generation and analysis."
+    # text: "Our wonderful team of graduate students possesses a diverse set of skills in both data generation and analysis."
     # subtext: All of our all-star graduate students are proficient both at the bench and at the terminal! You guys rock!
     section: team
     people:
+      - name: "Narges Rezaie"
+        role: "MCSB PhD Student"
+        image: assets/img/team/narges.png
+        social:
+          - url: https://github.com/nargesr
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/narges-rezaie-ab9710b8/
+            icon: fab fa-linkedin-in
       - name: "Fairlie Reese"
         role: "Dev Cell PhD Student"
         image: assets/img/team/fairlie.jpg
@@ -39,8 +47,8 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/fairlie-reese-a930a5b7/
             icon: fab fa-linkedin-in
-          - url: https://orcid.org/0000-0002-9240-0102
-            icon: fab fa-orcid
+          # - url: https://orcid.org/0000-0002-9240-0102
+          #   icon: fab fa-orcid
       - name: "Gabriela Balderrama-Gutierrez"
         role: "Dev Cell PhD Student"
         image: assets/img/team/gaby.jpg
@@ -51,8 +59,8 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/gabriela-balderrama-gutierrez-0b350914b/
             icon: fab fa-linkedin-in
-          - url: https://orcid.org/0000-0002-5794-4518
-            icon: fab fa-orcid
+          # - url: https://orcid.org/0000-0002-5794-4518
+          #   icon: fab fa-orcid
       - name: "Elisabeth Rebboah"
         role: "MCSB PhD Student"
         image: assets/img/team/liz.jpg
@@ -63,6 +71,46 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
             icon: fab fa-linkedin-in
+      - name: "Christina Wilcox Thai"
+        role: "Dev Cell PhD Student"
+        image: assets/img/team/christina.jpg
+        social:
+          - url: https://www.linkedin.com/in/christinawilcoxthai/
+            icon: fab fa-linkedin-in
+      - name: "Klebea Carvalho"
+        role: "Pharmaceutical Sciences PhD Student"
+        image: assets/img/team/bea.jpg
+        social:
+          - url: https://twitter.com/klebea
+            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/carvalhoklebea/
+            icon: fab fa-linkedin-in
+      - name: "Cassandra McGill"
+        role: "Lab Manager / Lab Technician / Sequencing Specialist"
+        image: assets/img/team/cassie.jpg
+        social:
+          - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
+            icon: fab fa-linkedin-in
+      - name: "Katherine Williams"
+        role: "Dev Cell PhD Student"
+        image: assets/img/team/kate.jpg
+        social:
+          - url: https://www.linkedin.com/in/curlsforscience/
+            icon: fab fa-linkedin-in
+      - name: "Aide Macias-Muñoz, PhD"
+        role: "Postdoctoral Fellow"
+        image: assets/img/team/aide.jpg
+        social:
+          - url: https://twitter.com/Aide_Macias
+            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/aidemacias/
+            icon: fab fa-linkedin-in
+      - name: "Ali Mortazavi, PhD"
+        role: "Principal Investigator"
+        image: assets/img/team/ali.jpg
+        social:
+          - url: https://twitter.com/calizavi
+            icon: fab fa-twitter
 
 timeline:
     title: "News" 
@@ -100,6 +148,52 @@ timeline:
         alt: image alt text
     end: ""
 
+past_members:
+    title: "Past Members"
+    # text: "Past Mortazavi Lab alumni."
+    section: past_members
+    people:
+      - name: "Dana Wyman, PhD"
+        role: "Former MCSB PhD Student"
+        image: assets/img/team/dana.jpg
+        social:
+          - url: https://twitter.com/DNAwyman
+            icon: fab fa-twitter
+          - url: https://github.com/dewyman
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/dana-wyman/
+            icon: fab fa-linkedin-in
+          # - url: https://orcid.org/0000-0002-9240-0102
+          #   icon: fab fa-orcid
+      - name: "Sorena Rahmanian, PhD"
+        role: "Former MCSB PhD Student"
+        image: assets/img/team/sorena.jpg
+        social:
+          - url: https://twitter.com/RahmanianSorena
+            icon: fab fa-twitter
+          - url: https://github.com/sorenar
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/sorena-rahmanian/
+            icon: fab fa-linkedin-in
+          # - url: https://orcid.org/0000-0002-5794-4518
+          #   icon: fab fa-orcid
+      - name: "Lorrayne Serra Clague, PhD"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/lorrayne.jpg
+        social:
+          - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
+            icon: fab fa-linkedin-in
+      - name: "Camden Jansen, PhD"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/camden.jpg
+        social:
+          - url: https://twitter.com/CamdenJansen
+            icon: fab fa-twitter
+          - url: https://github.com/csjansen
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/camden-jansen-346963196/
+            icon: fab fa-linkedin-in
+
 about:
     title: "About Us"
     text: "our story"
@@ -107,7 +201,7 @@ about:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    # text: "Lorem ipsum or call 123456789"
     section: contact
     
 footer:

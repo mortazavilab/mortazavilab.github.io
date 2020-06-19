@@ -8,7 +8,6 @@ caption:
   title: Swan
   subtitle: Transcriptome analysis and visualization
   thumbnail: assets/img/portfolio/swan.png
-
 ---
 Swan is a Python library for analyzing and visualizing transcriptomes, with long-read transcriptomes in mind. Swan can find differentially-expressed genes and transcripts, isoform-switching genes, and novel exon skipping and intron retention events. 
 
