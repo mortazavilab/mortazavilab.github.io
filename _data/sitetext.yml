@@ -30,6 +30,7 @@ team:
     section: team
     people:
       - name: "Narges Rezaie"
+        id: "narges"
         role: "MCSB PhD Student"
         image: assets/img/team/narges.png
         social:
@@ -38,6 +39,7 @@ team:
           - url: https://www.linkedin.com/in/narges-rezaie-ab9710b8/
             icon: fab fa-linkedin-in
       - name: "Fairlie Reese"
+        id: "fairlie"
         role: "Dev Cell PhD Student"
         image: assets/img/team/fairlie.jpg
         social:
@@ -50,6 +52,7 @@ team:
           # - url: https://orcid.org/0000-0002-9240-0102
           #   icon: fab fa-orcid
       - name: "Gabriela Balderrama-Gutierrez"
+        id: "gaby"
         role: "Dev Cell PhD Student"
         image: assets/img/team/gaby.jpg
         social:
@@ -62,6 +65,7 @@ team:
           # - url: https://orcid.org/0000-0002-5794-4518
           #   icon: fab fa-orcid
       - name: "Elisabeth Rebboah"
+        id: "liz"
         role: "MCSB PhD Student"
         image: assets/img/team/liz.jpg
         social:
@@ -72,12 +76,14 @@ team:
           - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
             icon: fab fa-linkedin-in
       - name: "Christina Wilcox Thai"
+        id: "christina"
         role: "Dev Cell PhD Student"
         image: assets/img/team/christina.jpg
         social:
           - url: https://www.linkedin.com/in/christinawilcoxthai/
             icon: fab fa-linkedin-in
       - name: "Klebea Carvalho"
+        id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
         image: assets/img/team/bea.jpg
         social:
@@ -86,18 +92,28 @@ team:
           - url: https://www.linkedin.com/in/carvalhoklebea/
             icon: fab fa-linkedin-in
       - name: "Cassandra McGill"
+        id: "cassie"
         role: "Lab Manager / Lab Technician / Sequencing Specialist"
         image: assets/img/team/cassie.jpg
         social:
           - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
             icon: fab fa-linkedin-in
+      - name: "Heidi Liang"
+        id: "heidi"
+        role: "Lab Technician / Sequencing Specialist"
+        image: assets/img/team/heidi.jpg
+        social:
+          - url: https://www.linkedin.com/in/heidi-liang-912331b2/
+            icon: fab fa-linkedin-in
       - name: "Katherine Williams"
+        id: "kate"
         role: "Dev Cell PhD Student"
         image: assets/img/team/kate.jpg
         social:
           - url: https://www.linkedin.com/in/curlsforscience/
             icon: fab fa-linkedin-in
       - name: "Aide Macias-Muñoz, PhD"
+        id: "aide"
         role: "Postdoctoral Fellow"
         image: assets/img/team/aide.jpg
         social:
@@ -106,6 +122,7 @@ team:
           - url: https://www.linkedin.com/in/aidemacias/
             icon: fab fa-linkedin-in
       - name: "Ali Mortazavi, PhD"
+        id: "ali"
         role: "Principal Investigator"
         image: assets/img/team/ali.jpg
         social:
@@ -154,6 +171,7 @@ past_members:
     section: past_members
     people:
       - name: "Dana Wyman, PhD"
+        id: "dana"
         role: "Former MCSB PhD Student"
         image: assets/img/team/dana.jpg
         social:
@@ -166,6 +184,7 @@ past_members:
           # - url: https://orcid.org/0000-0002-9240-0102
           #   icon: fab fa-orcid
       - name: "Sorena Rahmanian, PhD"
+        id: "sorena"
         role: "Former MCSB PhD Student"
         image: assets/img/team/sorena.jpg
         social:
@@ -178,12 +197,14 @@ past_members:
           # - url: https://orcid.org/0000-0002-5794-4518
           #   icon: fab fa-orcid
       - name: "Lorrayne Serra Clague, PhD"
+        id: "lorrayne"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/lorrayne.jpg
         social:
           - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
             icon: fab fa-linkedin-in
       - name: "Camden Jansen, PhD"
+        id: "camden"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/camden.jpg
         social:
