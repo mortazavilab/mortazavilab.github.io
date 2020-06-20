@@ -11,13 +11,7 @@
   {% for person in site.data.sitetext.team.people %}
 	<div class="col-sm-4">
 	  <div class="team-member">
-		<!-- <img class="mx-auto rounded-circle" src="{{ person.image }}" alt=""> -->
-		<a class="team-link" data-toggle="modal" href="#p{{ person.id }}">
-          <!-- <div class="team-hover">
-            <div class="team-hover-content">
-              <i class="mx-auto rounded-circle" src="fas fa-plus fa-3x" }}"></i>
-            </div>
-          </div> -->
+		<a class="team-link" data-toggle="modal" href="#{{ person.id }}">
         <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
         </a>
 		<h4>{{ person.name }}</h4>

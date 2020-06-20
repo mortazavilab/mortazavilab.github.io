@@ -33,6 +33,7 @@ team:
         id: "narges"
         role: "MCSB PhD Student"
         image: assets/img/team/narges.png
+        info: "example text"
         social:
           - url: https://github.com/nargesr
             icon: fab fa-github
@@ -42,6 +43,7 @@ team:
         id: "fairlie"
         role: "Dev Cell PhD Student"
         image: assets/img/team/fairlie.jpg
+        info: "I made this **cool** site"
         social:
           - url: https://twitter.com/FairlieReese
             icon: fab fa-twitter
@@ -168,12 +170,14 @@ timeline:
 past_members:
     title: "Past Members"
     # text: "Past Mortazavi Lab alumni."
+    #subtext: ""
     section: past_members
     people:
       - name: "Dana Wyman, PhD"
         id: "dana"
         role: "Former MCSB PhD Student"
         image: assets/img/team/dana.jpg
+        info: "example text"
         social:
           - url: https://twitter.com/DNAwyman
             icon: fab fa-twitter
