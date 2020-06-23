@@ -45,9 +45,9 @@
               <div class="modal-body">
                 <!-- Person's Details Go Here -->
                 <h2 class="text-uppercase">{{ person.name }}</h2>
-                <p class="item-intro text-muted">{{ person.role }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ person.image }}">
-        <p>{{ person.info | markdownify }}</p>    
+                <p class="item-intro text-muted">{{ person.role }}, {{ person.lab_role }}</p>
+                <img class="img-fluid d-block mx-auto" src="{{ person.image }}" width="300" height="300">
+        <p>{{ person.info | markdownify | newline_to_br }}</p>    
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
                   Close</button>

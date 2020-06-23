@@ -25,15 +25,15 @@ portfolio:
     
 team:
     title: "People"
-    # text: "Our wonderful team of graduate students possesses a diverse set of skills in both data generation and analysis."
-    # subtext: All of our all-star graduate students are proficient both at the bench and at the terminal! You guys rock!
+    # text: ""
+    # subtext: ""
     section: team
     people:
       - name: "Narges Rezaie"
         id: "narges"
         role: "MCSB PhD Student"
         image: assets/img/team/narges.png
-        info: "example text"
+        info: "Description coming soon"
         social:
           - url: https://github.com/nargesr
             icon: fab fa-github
@@ -42,8 +42,30 @@ team:
       - name: "Fairlie Reese"
         id: "fairlie"
         role: "Dev Cell PhD Student"
+        lab_role: "Bioinformatician"
         image: assets/img/team/fairlie.jpg
-        info: "I made this **cool** site"
+        info: "
+            **Research Interests:**
+            \nI currently work on long-read transcriptomes, and am specifically focused on developing tools for their analysis.
+            \n\n
+            **Software:**
+            \n[**Swan:**](https://freese.gitbook.io/swan/) a Python library for visualizing and analyzing transcriptomes
+            \n[**TALON:**](https://github.com/mortazavilab/TALON) Technology-agnostic long-read annotation and quantification pipeline
+            \n\n
+            **Links:**
+            \n**Personal Website (Coming soon!)**
+            \n[**Google Scholar**](https://scholar.google.com/citations?user=SgA5IcgAAAAJ&hl=en)
+            \n[**ORCID**](http://orcid.org/0000-0002-9240-0102)
+            \n[**LinkedIn**](https://www.linkedin.com/in/fairlie-reese-a930a5b7/)
+            \n[**GitHub**](https://github.com/fairliereese)
+            \n\n
+            **Personal Interests:**
+            \nWhen I'm not working (and there's not a pandemic going on) you can find me at the beach, at rock concerts, or eating Mexican food. 
+            At home, I like to play video games, Dungeons and Dragons, and hang out with my cats.
+            \n\n
+            **Contact:**
+            \n freese {at} uci.edu
+            "
         social:
           - url: https://twitter.com/FairlieReese
             icon: fab fa-twitter
@@ -57,6 +79,7 @@ team:
         id: "gaby"
         role: "Dev Cell PhD Student"
         image: assets/img/team/gaby.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/Sakuxxy
             icon: fab fa-twitter
@@ -70,6 +93,7 @@ team:
         id: "liz"
         role: "MCSB PhD Student"
         image: assets/img/team/liz.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/LizRebboah
             icon: fab fa-twitter
@@ -88,6 +112,7 @@ team:
         id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
         image: assets/img/team/bea.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/klebea
             icon: fab fa-twitter
@@ -97,6 +122,7 @@ team:
         id: "cassie"
         role: "Lab Manager / Lab Technician / Sequencing Specialist"
         image: assets/img/team/cassie.jpg
+        info: "Description coming soon"
         social:
           - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
             icon: fab fa-linkedin-in
@@ -104,6 +130,7 @@ team:
         id: "heidi"
         role: "Lab Technician / Sequencing Specialist"
         image: assets/img/team/heidi.jpg
+        info: "Description coming soon"
         social:
           - url: https://www.linkedin.com/in/heidi-liang-912331b2/
             icon: fab fa-linkedin-in
@@ -111,6 +138,7 @@ team:
         id: "kate"
         role: "Dev Cell PhD Student"
         image: assets/img/team/kate.jpg
+        info: "Description coming soon"
         social:
           - url: https://www.linkedin.com/in/curlsforscience/
             icon: fab fa-linkedin-in
@@ -118,6 +146,7 @@ team:
         id: "aide"
         role: "Postdoctoral Fellow"
         image: assets/img/team/aide.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/Aide_Macias
             icon: fab fa-twitter
@@ -127,6 +156,7 @@ team:
         id: "ali"
         role: "Principal Investigator"
         image: assets/img/team/ali.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/calizavi
             icon: fab fa-twitter
@@ -177,7 +207,7 @@ past_members:
         id: "dana"
         role: "Former MCSB PhD Student"
         image: assets/img/team/dana.jpg
-        info: "example text"
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/DNAwyman
             icon: fab fa-twitter
@@ -191,6 +221,7 @@ past_members:
         id: "sorena"
         role: "Former MCSB PhD Student"
         image: assets/img/team/sorena.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/RahmanianSorena
             icon: fab fa-twitter
@@ -204,6 +235,7 @@ past_members:
         id: "lorrayne"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/lorrayne.jpg
+        info: "Description coming soon"
         social:
           - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
             icon: fab fa-linkedin-in
@@ -211,6 +243,7 @@ past_members:
         id: "camden"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/camden.jpg
+        info: "Description coming soon"
         social:
           - url: https://twitter.com/CamdenJansen
             icon: fab fa-twitter
@@ -232,16 +265,8 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/mortazavilab
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
