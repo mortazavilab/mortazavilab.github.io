@@ -1,0 +1,12 @@
+---
+layout: page
+title: publications
+description: 
+years: [2020, 2019]
+---
+
+{% include nav.html %}
+
+<div class="container" id="pagecontainer">
+{{ "Hello  hello" }}
+</div>
