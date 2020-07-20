@@ -138,8 +138,27 @@ team:
         id: "kate"
         role: "Dev Cell PhD Student"
         image: assets/img/team/kate.jpg
-        info: "Description coming soon"
+        info:  "
+            **Research Interests:**
+            \nI use sequencing technologies to explore epigenetics and gene expression in development of diseases and in non-model organisms.
+            \nMy main work in collaboration with the Yokomori lab focuses on investigating the transcriptomeand epigenome in facioscapulohumeral muscular dystrophy (FSHD). I use a variety of techniques such as single-nucleus RNA-seq from multinucleated myotubes, RRBS, and bulk RNA-seq. We aim to uncover how the misexpression of a single transcription factor results in pathogenesis.
+            \nI work and collaborate on many other projects including studying the transcriptomes of mammals and nematodes. I love having the opportunity to bring new insights into our understanding of other organisms and ourselves!
+            \n\n
+            **Links:**
+            \n[**Google Scholar**](https://scholar.google.com/citations?user=Lepe9wwAAAAJ&hl=en)
+            \n[**ORCID**](http://orcid.org/0000-0001-8061-0105)
+            \n[**LinkedIn**](https://www.linkedin.com/in/curlsforscience/)
+            \n[**GitHub**](https://github.com/CurlsForScience)
+            \n\n
+            **Personal Interests:**
+            \nI love to dance, specifically lindy hop and east coast swing. I especially love dancing at Disneyland. Most importantly, I enjoy spending time with my dog and being out in the California sun. 
+            \n\n
+            **Contact:**
+            \n kwillia4 {at} uci.edu
+            "
         social:
+          - url: https://github.com/CurlsForScience
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/curlsforscience/
             icon: fab fa-linkedin-in
       - name: "Aide Macias-Muñoz, PhD"
