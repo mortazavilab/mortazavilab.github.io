@@ -112,7 +112,21 @@ team:
         id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
         image: assets/img/team/bea.jpg
-        info: "Description coming soon"
+        info: "
+          **Research Interests:**
+          \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing. 
+          \n\n
+          **Links:**
+          \n[**Google Scholar**](https://scholar.google.com/citations?user=jpc4QIwAAAAJ&hl=en&authuser=2)
+          \n[**LinkedIn**](https://www.linkedin.com/in/carvalhoklebea/)
+          \n[**GitHub**](https://github.com/kmcarval)
+          \n\n
+          **Personal Interests:**
+          \nI love visiting new countries and learning about new cultures. I also enjoy going on road trips and camping with my husband. I appreciate a good thriller, whether it’s a movie or book, such that I’ve probably read all of the Agatha Christie’s books. I have an adorable cat named Mochi and I play piano and drums.
+          \n\n
+          **Contact:**
+          \n kmcarval {at} uci.edu 
+        "
         social:
           - url: https://twitter.com/klebea
             icon: fab fa-twitter
