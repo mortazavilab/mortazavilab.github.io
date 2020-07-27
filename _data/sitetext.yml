@@ -111,7 +111,21 @@ team:
         id: "liz"
         role: "MCSB PhD Student"
         image: assets/img/team/liz.jpg
-        info: "Description coming soon"
+        info: "
+          **Research Interests:**
+          \nI am interested in NGS-focused biotechnology and currently work on integrating bulk & single-cell/single-nucleus RNA-seq and ATAC-seq in an in vitro model of skeletal muscle differentiation.
+          \n\n
+          **Links:**
+          \n[**ORCID**](http://orcid.org/0000-0003-2273-0189)
+          \n[**LinkedIn**](https://www.linkedin.com/in/elisabeth-rebboah-a33923104/)
+          \n[**GitHub**](https://github.com/erebboah)
+          \n\n
+          **Personal Interests:**
+          \nI enjoy watching anime and getting takeout when I'm not working.
+          \n\n
+          **Contact:**
+          \n erebboah {at} uci.edu
+        "
         social:
           - url: https://twitter.com/LizRebboah
             icon: fab fa-twitter
