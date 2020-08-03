@@ -55,8 +55,8 @@ team:
         social:
           - url: https://github.com/nargesr
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/narges-rezaie-ab9710b8/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/narges-rezaie-ab9710b8/
+          #   icon: fab fa-linkedin-in
       - name: "Fairlie Reese"
         id: "fairlie"
         role: "Dev Cell PhD Student"
@@ -89,8 +89,8 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/fairliereese
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/fairlie-reese-a930a5b7/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/fairlie-reese-a930a5b7/
+          #   icon: fab fa-linkedin-in
           # - url: https://orcid.org/0000-0002-9240-0102
           #   icon: fab fa-orcid
       - name: "Gabriela Balderrama-Gutierrez"
@@ -103,8 +103,8 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/GabyBG
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/gabriela-balderrama-gutierrez-0b350914b/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/gabriela-balderrama-gutierrez-0b350914b/
+          #   icon: fab fa-linkedin-in
           # - url: https://orcid.org/0000-0002-5794-4518
           #   icon: fab fa-orcid
       - name: "Elisabeth Rebboah"
@@ -131,15 +131,15 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/erebboah
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
+          #   icon: fab fa-linkedin-in
       - name: "Christina Wilcox Thai"
         id: "christina"
         role: "Dev Cell PhD Student"
         image: assets/img/team/christina.jpg
         social:
-          - url: https://www.linkedin.com/in/christinawilcoxthai/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/christinawilcoxthai/
+          #   icon: fab fa-linkedin-in
       - name: "Klebea Carvalho"
         id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
@@ -162,24 +162,24 @@ team:
         social:
           - url: https://twitter.com/klebea
             icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/carvalhoklebea/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/carvalhoklebea/
+          #   icon: fab fa-linkedin-in
       - name: "Cassandra McGill"
         id: "cassie"
         role: "Lab Manager / Lab Technician / Sequencing Specialist"
         image: assets/img/team/cassie.jpg
         info: "Description coming soon"
         social:
-          - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
+          #   icon: fab fa-linkedin-in
       - name: "Heidi Liang"
         id: "heidi"
         role: "Lab Technician / Sequencing Specialist"
         image: assets/img/team/heidi.jpg
         info: "Description coming soon"
         social:
-          - url: https://www.linkedin.com/in/heidi-liang-912331b2/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/heidi-liang-912331b2/
+          #   icon: fab fa-linkedin-in
       - name: "Katherine Williams"
         id: "kate"
         role: "Dev Cell PhD Student"
@@ -205,8 +205,8 @@ team:
         social:
           - url: https://github.com/CurlsForScience
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/curlsforscience/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/curlsforscience/
+          #   icon: fab fa-linkedin-in
       - name: "Aide Macias-Muñoz, PhD"
         id: "aide"
         role: "Postdoctoral Fellow"
@@ -215,8 +215,8 @@ team:
         social:
           - url: https://twitter.com/Aide_Macias
             icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/aidemacias/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/aidemacias/
+          #   icon: fab fa-linkedin-in
       - name: "Ali Mortazavi, PhD"
         id: "ali"
         role: "Principal Investigator"
@@ -278,8 +278,8 @@ past_members:
             icon: fab fa-twitter
           - url: https://github.com/dewyman
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/dana-wyman/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/dana-wyman/
+          #   icon: fab fa-linkedin-in
           # - url: https://orcid.org/0000-0002-9240-0102
           #   icon: fab fa-orcid
       - name: "Sorena Rahmanian, PhD"
@@ -292,8 +292,8 @@ past_members:
             icon: fab fa-twitter
           - url: https://github.com/sorenar
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/sorena-rahmanian/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/sorena-rahmanian/
+          #   icon: fab fa-linkedin-in
           # - url: https://orcid.org/0000-0002-5794-4518
           #   icon: fab fa-orcid
       - name: "Lorrayne Serra Clague, PhD"
@@ -302,8 +302,8 @@ past_members:
         image: assets/img/team/lorrayne.jpg
         info: "Description coming soon"
         social:
-          - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
+          #   icon: fab fa-linkedin-in
       - name: "Camden Jansen, PhD"
         id: "camden"
         role: "Former Dev Cell PhD Student"
@@ -314,8 +314,8 @@ past_members:
             icon: fab fa-twitter
           - url: https://github.com/csjansen
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/camden-jansen-346963196/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/camden-jansen-346963196/
+          #   icon: fab fa-linkedin-in
 
 about:
     title: "About Us"
