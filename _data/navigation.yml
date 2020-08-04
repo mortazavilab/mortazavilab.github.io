@@ -12,7 +12,7 @@ nav:
     section: team
 
   - title: "Past Members"
-    section: past_members
+    url: past_members
 
   - title: "Contact"
     section: contact
