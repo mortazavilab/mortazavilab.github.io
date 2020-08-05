@@ -13,6 +13,9 @@ nav:
 
   - title: "Past Members"
     url: past_members
+    
+  - title: "Publications"
+    url: publication
 
   - title: "Contact"
     section: contact
