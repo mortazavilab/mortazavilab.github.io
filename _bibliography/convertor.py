@@ -32,7 +32,7 @@ for result in resluts:
     res = res + "      - title: " + result[0]\
           + "\n        author: " + result[1]\
           + "\n        journal: " + result[2]\
-          + "\n        year: " + str(result[3]) + "\n"
+          + "\n        year: " + str(result[3]) + "\n\n"
 
 file = open('text', 'w')
 file.write(res)
