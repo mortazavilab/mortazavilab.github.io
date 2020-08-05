@@ -46,9 +46,13 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: publications
+  bibliography_template: ""#publications
 
   replace_strings: true
   join_strings:    true
+  
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
 
   query: "@*"
