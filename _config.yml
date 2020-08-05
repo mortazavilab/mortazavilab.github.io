@@ -34,7 +34,7 @@ markdown: kramdown
 
 ## publication page
 scholar:
-  style: apa
+  style: assets/bibliography/ieee-with-url.csl
   locale: en
 
 
@@ -44,12 +44,12 @@ scholar:
   group_by: none
   group_order: ascending
 
-  source: ./_bibliography/
-  bibliography: papers.bib
-  #bibliography_template: ""#publications
+  source: _bibliography
+  bibliography: papers
+  bibliography_template: bibliography#publications
   
-  #details_dir:    bibliography
-  #details_layout: bibtex.html
-  #details_link:   Details
+  details_dir:    bibliography
+  details_layout: publications.html
+  details_link:   Details
 
   query: "@*"
