@@ -7,7 +7,7 @@ papers = file.split("@")[1:]
 resluts = np.zeros((len(papers), 4), dtype=object)
 
 for i in range(len(papers)):
-    papers[i] = papers[i].replace(",", ";")
+    papers[i] = papers[i].replace(":", ";")
     tmp = papers[i].split("\n")
     for t in tmp:
         if "title=" in t:
@@ -17,7 +17,7 @@ for i in range(len(papers)):
         if "journal=" in t:
             resluts[i, 2] = t[11:-2]
         if "year=" in t:
-            if ";" in t:
+            if "," in t:
                 resluts[i, 3] = t[8:-2]
             else:
                 resluts[i, 3] = t[8:-1]
