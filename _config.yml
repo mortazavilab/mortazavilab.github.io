@@ -36,7 +36,7 @@ markdown: kramdown
 scholar:
   style: apa
   locale: en
-  bibliography_template: bib
+
 
   sort_by: year, month
   order: descending
@@ -44,9 +44,9 @@ scholar:
   group_by: none
   group_order: ascending
 
-  source: ./_data
-  bibliography: publications.bib
-  bibliography_template: ""
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
 
   replace_strings: true
   join_strings:    true
