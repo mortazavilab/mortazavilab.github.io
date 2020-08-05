@@ -1,3 +1,5 @@
 ---
 layout: publications
 ---
+
+{% bibliography %}
