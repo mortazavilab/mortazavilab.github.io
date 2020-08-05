@@ -317,6 +317,12 @@ past_members:
           # - url: https://www.linkedin.com/in/camden-jansen-346963196/
           #   icon: fab fa-linkedin-in
 
+publications:
+    title: "Publications"
+    # text: "Past Mortazavi Lab alumni."
+    #subtext: ""
+    section: publications
+
 about:
     title: "About Us"
     text: "our story"
