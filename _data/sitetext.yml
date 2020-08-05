@@ -323,7 +323,7 @@ publications:
     #subtext: ""
     section: publications
     papers:
-            - title: Mapping and quantifying mammalian transcriptomes by RNA-Seq
+      - title: Mapping and quantifying mammalian transcriptomes by RNA-Seq
         author: Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara
         journal: Nature methods
         year: 2020
