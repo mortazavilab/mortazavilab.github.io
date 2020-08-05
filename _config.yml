@@ -54,7 +54,7 @@ scholar:
   use_raw_bibtex_entry: false
 
   details_dir:    bibliography
-  details_layout: bibtex.html
+  details_layout: publications.html
   details_link:   Details
 
   query: "@*"
