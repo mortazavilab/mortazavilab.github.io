@@ -324,12 +324,10 @@ publications:
     section: publications
     papers:
       - title: "Mapping and quantifying mammalian transcriptomes by RNA-Seq"
-        id: "mortazavi2008mapping"
         author: "Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara"
         journal: Nature methods
         year: 2008
       - title: "Genome-wide mapping of in vivo protein-DNA interactions"
-        id: "mortazavi2008mapping"
         author: "Johnson, David S and Mortazavi, Ali and Myers, Richard M and Wold, Barbara"
         journal: Science
         year: 2007
