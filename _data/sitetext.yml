@@ -322,7 +322,7 @@ publications:
     # text: "Past Mortazavi Lab alumni."
     #subtext: ""
     section: publications
-    paper:
+    papers:
       - title: "Mapping and quantifying mammalian transcriptomes by RNA-Seq"
         id: "mortazavi2008mapping"
         author: "Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara"
