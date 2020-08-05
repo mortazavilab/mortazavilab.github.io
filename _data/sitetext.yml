@@ -323,7 +323,7 @@ publications:
     #subtext: ""
     section: publications
     papers:
-      - title: Mapping and quantifying mammalian transcriptomes by RNA-Seq
+            - title: Mapping and quantifying mammalian transcriptomes by RNA-Seq
         author: Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara
         journal: Nature methods
         year: 2020
@@ -341,6 +341,11 @@ publications:
       - title: Computation for ChIP-seq and RNA-seq studies
         author: Pepke, Shirley and Wold, Barbara and Mortazavi, Ali
         journal: Nature methods
+        year: 2020
+
+      - title: Comparative genomics modeling of the NRSF/REST repressor network; from single conserved sites to genome-wide repertoire
+        author: Mortazavi, Ali and Thompson, Evonne Chen Leeper and Garcia, Sarah T and Myers, Richard M and Wold, Barbara
+        journal: Genome research
         year: 2020
 
       - title: Mining gene expression data by interpreting principal components
