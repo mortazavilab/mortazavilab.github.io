@@ -7,6 +7,9 @@ nav:
     
   - title: "News"
     section: timeline
+    
+  - title: "Dr. Mortazavi"
+    url: Dr_Mortazavi
 
   - title: "People"
     section: team
