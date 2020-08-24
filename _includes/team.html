@@ -11,7 +11,7 @@
   {% for person in site.data.sitetext.team.people %}
 	<div class="col-sm-4">
 	  <div class="team-member">
-		  {% if person.id == "ali" %}
+		  {% if {{ person.id }} == "ali" %}
 		  	<a class="team-link" data-toggle="modal" href="Dr_Mortazavi">
 				<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 		  </a>
