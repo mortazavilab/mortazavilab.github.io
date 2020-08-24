@@ -200,7 +200,7 @@ team:
           # - url: https://www.linkedin.com/in/curlsforscience/
           #   icon: fab fa-linkedin-in
       - name: "Ali Mortazavi, PhD"
-        id: "ali"
+        id: "/Dr_Mortazavi#Dr_Mortazavi"
         role: "Principal Investigator"
         image: assets/img/team/ali.jpg
         info: "Description coming soon"
