@@ -164,14 +164,6 @@ team:
             icon: fab fa-twitter
           # - url: https://www.linkedin.com/in/carvalhoklebea/
           #   icon: fab fa-linkedin-in
-      - name: "Cassandra McGill"
-        id: "cassie"
-        role: "Lab Manager / Lab Technician / Sequencing Specialist"
-        image: assets/img/team/cassie.jpg
-        info: "Description coming soon"
-        social:
-          # - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
-          #   icon: fab fa-linkedin-in
       - name: "Heidi Liang"
         id: "heidi"
         role: "Lab Technician / Sequencing Specialist"
@@ -206,16 +198,6 @@ team:
           - url: https://github.com/CurlsForScience
             icon: fab fa-github
           # - url: https://www.linkedin.com/in/curlsforscience/
-          #   icon: fab fa-linkedin-in
-      - name: "Aide Macias-Muñoz, PhD"
-        id: "aide"
-        role: "Postdoctoral Fellow"
-        image: assets/img/team/aide.jpg
-        info: "Description coming soon"
-        social:
-          - url: https://twitter.com/Aide_Macias
-            icon: fab fa-twitter
-          # - url: https://www.linkedin.com/in/aidemacias/
           #   icon: fab fa-linkedin-in
       - name: "Ali Mortazavi, PhD"
         id: "ali"
@@ -268,6 +250,14 @@ past_members:
     #subtext: ""
     section: past_members
     people:
+      - name: "Cassandra McGill"
+        id: "cassie"
+        role: "Lab Manager / Lab Technician / Sequencing Specialist"
+        image: assets/img/team/cassie.jpg
+        info: "Description coming soon"
+        social:
+          # - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
+          #   icon: fab fa-linkedin-in
       - name: "Dana Wyman, PhD"
         id: "dana"
         role: "Former MCSB PhD Student"
@@ -296,6 +286,16 @@ past_members:
           #   icon: fab fa-linkedin-in
           # - url: https://orcid.org/0000-0002-5794-4518
           #   icon: fab fa-orcid
+      - name: "Aide Macias-Muñoz, PhD"
+        id: "aide"
+        role: "Postdoctoral Fellow"
+        image: assets/img/team/aide.jpg
+        info: "Description coming soon"
+        social:
+          - url: https://twitter.com/Aide_Macias
+            icon: fab fa-twitter
+          # - url: https://www.linkedin.com/in/aidemacias/
+          #   icon: fab fa-linkedin-in
       - name: "Lorrayne Serra Clague, PhD"
         id: "lorrayne"
         role: "Former Dev Cell PhD Student"
