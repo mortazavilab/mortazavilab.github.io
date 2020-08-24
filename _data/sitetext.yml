@@ -33,6 +33,7 @@ team:
         id: "narges"
         role: "MCSB PhD Student"
         image: assets/img/team/narges.png
+        url: ""
         info: "
             **Research Interests:**
             \nAs a person with a computer science background, I've always been interested in machine learning methods, network analysis and their applications.
@@ -62,6 +63,7 @@ team:
         role: "Dev Cell PhD Student"
         lab_role: "Bioinformatician"
         image: assets/img/team/fairlie.jpg
+        url: ""
         info: "
             **Research Interests:**
             \nI currently work on long-read transcriptomes, and am specifically focused on developing tools for their analysis.
@@ -98,6 +100,7 @@ team:
         role: "Dev Cell PhD Student"
         image: assets/img/team/gaby.jpg
         info: "Description coming soon"
+        url: ""
         social:
           - url: https://twitter.com/Sakuxxy
             icon: fab fa-twitter
@@ -111,6 +114,7 @@ team:
         id: "liz"
         role: "MCSB PhD Student"
         image: assets/img/team/liz.jpg
+        url: ""
         info: "
           **Research Interests:**
           \nI am interested in NGS-focused biotechnology and currently work on integrating bulk & single-cell/single-nucleus RNA-seq and ATAC-seq in an in vitro model of skeletal muscle differentiation.
@@ -137,6 +141,7 @@ team:
         id: "christina"
         role: "Dev Cell PhD Student"
         image: assets/img/team/christina.jpg
+        url: ""
         social:
           # - url: https://www.linkedin.com/in/christinawilcoxthai/
           #   icon: fab fa-linkedin-in
@@ -144,6 +149,7 @@ team:
         id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
         image: assets/img/team/bea.jpg
+        url: ""
         info: "
           **Research Interests:**
           \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing. 
@@ -168,6 +174,7 @@ team:
         id: "heidi"
         role: "Lab Technician / Sequencing Specialist"
         image: assets/img/team/heidi.jpg
+        url: ""
         info: "Description coming soon"
         social:
           # - url: https://www.linkedin.com/in/heidi-liang-912331b2/
@@ -176,6 +183,7 @@ team:
         id: "kate"
         role: "Dev Cell PhD Student"
         image: assets/img/team/kate.jpg
+        url: ""
         info:  "
             **Research Interests:**
             \nI use sequencing technologies to explore epigenetics and gene expression in development of diseases and in non-model organisms.
@@ -203,6 +211,7 @@ team:
         id: "ali"
         role: "Principal Investigator"
         image: assets/img/team/ali.jpg
+        url: "Dr_Mortazavi"
         info: "Description coming soon"
         social:
           - url: https://twitter.com/calizavi
