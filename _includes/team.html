@@ -11,8 +11,8 @@
   {% for person in site.data.sitetext.team.people %}
 	<div class="col-sm-4">
 	  <div class="team-member">
-		 {%- if person.url-%}
-		    <a class="team-link" data-toggle="modal" href="#{{ person.id }}">
+		 {%- if person.url -%}
+		    <a class="team-link" data-toggle="modal" href="{{ person.url }}#{{ person.url }}">
 			    <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 		  </a>
 		  {%- else -%}
