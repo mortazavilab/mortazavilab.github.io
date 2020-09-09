@@ -270,7 +270,6 @@ past_members:
         id: "cassie"
         role: "Lab Manager / Lab Technician / Sequencing Specialist"
         image: assets/img/team/cassie.jpg
-        info: "Description coming soon"
         social:
           # - url: https://www.linkedin.com/in/cassandra-mcgill-aa590b123/
           #   icon: fab fa-linkedin-in
@@ -278,7 +277,6 @@ past_members:
         id: "dana"
         role: "Former MCSB PhD Student"
         image: assets/img/team/dana.jpg
-        info: "Description coming soon"
         social:
           - url: https://twitter.com/DNAwyman
             icon: fab fa-twitter
@@ -292,21 +290,15 @@ past_members:
         id: "sorena"
         role: "Former MCSB PhD Student"
         image: assets/img/team/sorena.jpg
-        info: "Description coming soon"
         social:
           - url: https://twitter.com/RahmanianSorena
             icon: fab fa-twitter
           - url: https://github.com/sorenar
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/sorena-rahmanian/
-          #   icon: fab fa-linkedin-in
-          # - url: https://orcid.org/0000-0002-5794-4518
-          #   icon: fab fa-orcid
       - name: "Aide Macias-Muñoz, PhD"
         id: "aide"
         role: "Postdoctoral Fellow"
         image: assets/img/team/aide.jpg
-        info: "Description coming soon"
         social:
           - url: https://twitter.com/Aide_Macias
             icon: fab fa-twitter
@@ -316,7 +308,6 @@ past_members:
         id: "lorrayne"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/lorrayne.jpg
-        info: "Description coming soon"
         social:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
@@ -324,14 +315,51 @@ past_members:
         id: "camden"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/camden.jpg
-        info: "Description coming soon"
         social:
           - url: https://twitter.com/CamdenJansen
             icon: fab fa-twitter
           - url: https://github.com/csjansen
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/camden-jansen-346963196/
-          #   icon: fab fa-linkedin-in
+      - name: "Eddie Park, PhD"
+        id: "eddie"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Eddie-Park.jpg
+        social:
+      - name: "Ricardo Ramirez, PhD"
+        id: "ricardo"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Ricardo-Ramirez.jpg
+        social:
+      - name: "Marissa Macchietto, PhD"
+        id: "marissa"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Marissa-Macchietto.jpg
+        social:
+      - name: "Weihua "Benny" Zeng, PhD"
+        id: "benny"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Benny-Zeng.jpg
+        social:
+      - name: "Shan "Mandy" Jiang, PhD"
+        id: "mandy"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Shan-Mandy-Jiang.jpg
+        social:
+      - name: "Rabi Murad, PhD"
+        id: "rabi"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Rabi-Murad.jpg
+        social:
+      - name: "Savanna Ma, PhD"
+        id: "savanna"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Savannah-Ma.jpg
+        social:
+      - name: "Nicole-El-Ali, PhD"
+        id: "Nicole"
+        role: "Former Dev Cell PhD Student"
+        image: assets/img/team/Nicole-El-Ali.jpg
+        social:
 
 publications:
     title: "Publications"
