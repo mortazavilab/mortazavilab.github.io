@@ -29,34 +29,53 @@ team:
     # subtext: ""
     section: team
     people:
-      - name: "Narges Rezaie"
-        id: "narges"
-        role: "MCSB PhD Student"
-        image: assets/img/team/narges.png
+      - name: "Ali Mortazavi, PhD"
+        url: Dr_Mortazavi
+        role: "Principal Investigator"
+        image: assets/img/team/ali.jpg
+        info: "Description coming soon"
+        social:
+          - url: https://twitter.com/calizavi
+            icon: fab fa-twitter
+      - name: "Christina Wilcox Thai"
+        id: "christina"
+        role: "Dev Cell PhD Student"
+        image: assets/img/team/christina.jpg
         info: "
-            **Research Interests:**
-            \nAs a person with a computer science background, I've always been interested in machine learning methods, network analysis and their applications.
-            Currently, I find the brain as an interesting organ, so I'm trying to identify and classify every functional part of the genome in the brain.
-            \n\n
-            **Links:**
-            \n[**Personal Website**](https://hpc.oit.uci.edu/~nargesr/)
-            \n[**Google Scholar**](https://scholar.google.com/citations?user=xS23yQUAAAAJ&hl=en)
-            \n[**ORCID**](https://orcid.org/0000-0001-9326-9954)
-            \n[**LinkedIn**](https://www.linkedin.com/in/narges-rezaie-ab9710b8/)
-            \n[**GitHub**](https://github.com/nargesr)
-            \n\n
-            **Personal Interests:**
-            \nI consider myself as an outgoing person, I like camping and adventure. Most weekends, I go hiking with my friends.
-            At home, I like cooking, playing board games and playing guitar.
-            \n\n
-            **Contact:**
-            \n nargesr {at} uci.edu
+          **Research Interests:**
+          \nI have three main projects. The first is my main thesis project investigating a time-series of embryonic stem cell differentiation to neuronal and endodermal lineages via RNA-seq and ATAC-seq in multiple mammalian species. The transcriptional and chromatin information gathered from these time courses are used to build and compare gene regulatory networks for each lineage and species. The second and third projects are related collaboration projects in collaboration with the Baram lab at UC Irvine. Both projects investigate early life stress (ELS) and how early life experiences can affect gene expression and contribute to mental illness in adulthood. The first of these investigates single cell transcriptomics of Corticotropin-releasing hormone (CRH) expressing neurons of the mouse hypothalamus after a model of ELS. Cells from the hypothalamus are separated via FACS and the transcriptome is analyzed via single cell RNA-seq. The second related project investigates methylation heterogeneity in human babies via buccal swabs during the first year of life to investigate a range of ELS in humans.
+          \n\n
+          **Links:**
+          \n[**LinkedIn**](https://www.linkedin.com/in/christinawilcoxthai/)
+          \n\n
         "
         social:
-          - url: https://github.com/nargesr
+          - url: https://twitter.com/GeneBioGenie
+            icon: fab fa-twitter
+      - name: "Elisabeth Rebboah"
+        id: "liz"
+        role: "MCSB PhD Student"
+        image: assets/img/team/liz.jpg
+        info: "
+          **Research Interests:**
+          \nI am interested in NGS-focused biotechnology and currently work on integrating bulk & single-cell/single-nucleus RNA-seq and ATAC-seq in an in vitro model of skeletal muscle differentiation.
+          \n\n
+          **Links:**
+          \n[**ORCID**](http://orcid.org/0000-0003-2273-0189)
+          \n[**LinkedIn**](https://www.linkedin.com/in/elisabeth-rebboah-a33923104/)
+          \n[**GitHub**](https://github.com/erebboah)
+          \n\n
+          **Personal Interests:**
+          \nI enjoy watching anime and getting takeout when I'm not working.
+          \n\n
+          **Contact:**
+          \n erebboah {at} uci.edu
+        "
+        social:
+          - url: https://twitter.com/LizRebboah
+            icon: fab fa-twitter
+          - url: https://github.com/erebboah
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/narges-rezaie-ab9710b8/
-          #   icon: fab fa-linkedin-in
       - name: "Fairlie Reese"
         id: "fairlie"
         role: "Dev Cell PhD Student"
@@ -89,10 +108,6 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/fairliereese
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/fairlie-reese-a930a5b7/
-          #   icon: fab fa-linkedin-in
-          # - url: https://orcid.org/0000-0002-9240-0102
-          #   icon: fab fa-orcid
       - name: "Gabriela Balderrama-Gutierrez"
         id: "gaby"
         role: "Dev Cell PhD Student"
@@ -127,75 +142,6 @@ team:
             icon: fab fa-twitter
           - url: https://github.com/GabyBG
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/gabriela-balderrama-gutierrez-0b350914b/
-          #   icon: fab fa-linkedin-in
-          # - url: https://orcid.org/0000-0002-5794-4518
-          #   icon: fab fa-orcid
-      - name: "Elisabeth Rebboah"
-        id: "liz"
-        role: "MCSB PhD Student"
-        image: assets/img/team/liz.jpg
-        info: "
-          **Research Interests:**
-          \nI am interested in NGS-focused biotechnology and currently work on integrating bulk & single-cell/single-nucleus RNA-seq and ATAC-seq in an in vitro model of skeletal muscle differentiation.
-          \n\n
-          **Links:**
-          \n[**ORCID**](http://orcid.org/0000-0003-2273-0189)
-          \n[**LinkedIn**](https://www.linkedin.com/in/elisabeth-rebboah-a33923104/)
-          \n[**GitHub**](https://github.com/erebboah)
-          \n\n
-          **Personal Interests:**
-          \nI enjoy watching anime and getting takeout when I'm not working.
-          \n\n
-          **Contact:**
-          \n erebboah {at} uci.edu
-        "
-        social:
-          - url: https://twitter.com/LizRebboah
-            icon: fab fa-twitter
-          - url: https://github.com/erebboah
-            icon: fab fa-github
-          # - url: https://www.linkedin.com/in/elisabeth-rebboah-a33923104/
-          #   icon: fab fa-linkedin-in
-      - name: "Christina Wilcox Thai"
-        id: "christina"
-        role: "Dev Cell PhD Student"
-        image: assets/img/team/christina.jpg
-        info: "
-          **Research Interests:**
-          \nI have three main projects. The first is my main thesis project investigating a time-series of embryonic stem cell differentiation to neuronal and endodermal lineages via RNA-seq and ATAC-seq in multiple mammalian species. The transcriptional and chromatin information gathered from these time courses are used to build and compare gene regulatory networks for each lineage and species. The second and third projects are related collaboration projects in collaboration with the Baram lab at UC Irvine. Both projects investigate early life stress (ELS) and how early life experiences can affect gene expression and contribute to mental illness in adulthood. The first of these investigates single cell transcriptomics of Corticotropin-releasing hormone (CRH) expressing neurons of the mouse hypothalamus after a model of ELS. Cells from the hypothalamus are separated via FACS and the transcriptome is analyzed via single cell RNA-seq. The second related project investigates methylation heterogeneity in human babies via buccal swabs during the first year of life to investigate a range of ELS in humans.
-          \n\n
-          **Links:**
-          \n[**LinkedIn**](https://www.linkedin.com/in/christinawilcoxthai/)
-          \n\n
-        "
-        social:
-          - url: https://twitter.com/GeneBioGenie
-            icon: fab fa-twitter
-      - name: "Klebea Carvalho"
-        id: "bea"
-        role: "Pharmaceutical Sciences PhD Student"
-        image: assets/img/team/bea.jpg
-        info: "
-          **Research Interests:**
-          \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing. 
-          \n\n
-          **Links:**
-          \n[**Google Scholar**](https://scholar.google.com/citations?user=jpc4QIwAAAAJ&hl=en&authuser=2)
-          \n[**LinkedIn**](https://www.linkedin.com/in/carvalhoklebea/)
-          \n[**GitHub**](https://github.com/kmcarval)
-          \n\n
-          **Personal Interests:**
-          \nI love visiting new countries and learning about new cultures. I also enjoy going on road trips and camping with my husband. I appreciate a good thriller, whether it’s a movie or book, such that I’ve probably read all of the Agatha Christie’s books. I have an adorable cat named Mochi and I play piano and drums.
-          \n\n
-          **Contact:**
-          \n kmcarval {at} uci.edu 
-        "
-        social:
-          - url: https://twitter.com/klebea
-            icon: fab fa-twitter
-          # - url: https://www.linkedin.com/in/carvalhoklebea/
-          #   icon: fab fa-linkedin-in
       - name: "Heidi Liang"
         id: "heidi"
         role: "Lab Technician / Sequencing Specialist"
@@ -229,16 +175,54 @@ team:
         social:
           - url: https://github.com/CurlsForScience
             icon: fab fa-github
-          # - url: https://www.linkedin.com/in/curlsforscience/
-          #   icon: fab fa-linkedin-in
-      - name: "Ali Mortazavi, PhD"
-        url: Dr_Mortazavi
-        role: "Principal Investigator"
-        image: assets/img/team/ali.jpg
-        info: "Description coming soon"
+      - name: "Klebea Carvalho"
+        id: "bea"
+        role: "Pharmaceutical Sciences PhD Student"
+        image: assets/img/team/bea.jpg
+        info: "
+          **Research Interests:**
+          \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing. 
+          \n\n
+          **Links:**
+          \n[**Google Scholar**](https://scholar.google.com/citations?user=jpc4QIwAAAAJ&hl=en&authuser=2)
+          \n[**LinkedIn**](https://www.linkedin.com/in/carvalhoklebea/)
+          \n[**GitHub**](https://github.com/kmcarval)
+          \n\n
+          **Personal Interests:**
+          \nI love visiting new countries and learning about new cultures. I also enjoy going on road trips and camping with my husband. I appreciate a good thriller, whether it’s a movie or book, such that I’ve probably read all of the Agatha Christie’s books. I have an adorable cat named Mochi and I play piano and drums.
+          \n\n
+          **Contact:**
+          \n kmcarval {at} uci.edu 
+        "
         social:
-          - url: https://twitter.com/calizavi
+          - url: https://twitter.com/klebea
             icon: fab fa-twitter
+      - name: "Narges Rezaie"
+        id: "narges"
+        role: "MCSB PhD Student"
+        image: assets/img/team/narges.png
+        info: "
+            **Research Interests:**
+            \nAs a person with a computer science background, I've always been interested in machine learning methods, network analysis and their applications.
+            Currently, I find the brain as an interesting organ, so I'm trying to identify and classify every functional part of the genome in the brain.
+            \n\n
+            **Links:**
+            \n[**Personal Website**](https://hpc.oit.uci.edu/~nargesr/)
+            \n[**Google Scholar**](https://scholar.google.com/citations?user=xS23yQUAAAAJ&hl=en)
+            \n[**ORCID**](https://orcid.org/0000-0001-9326-9954)
+            \n[**LinkedIn**](https://www.linkedin.com/in/narges-rezaie-ab9710b8/)
+            \n[**GitHub**](https://github.com/nargesr)
+            \n\n
+            **Personal Interests:**
+            \nI consider myself as an outgoing person, I like camping and adventure. Most weekends, I go hiking with my friends.
+            At home, I like cooking, playing board games and playing guitar.
+            \n\n
+            **Contact:**
+            \n nargesr {at} uci.edu
+        "
+        social:
+          - url: https://github.com/nargesr
+            icon: fab fa-github
 
 timeline:
     title: "News" 
