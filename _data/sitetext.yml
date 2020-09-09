@@ -326,7 +326,7 @@ past_members:
           - url: https://github.com/csjansen
             icon: fab fa-github
       - name: "Eddie Park, PhD"
-        id: "eddie"
+        id: "Eddie-Park"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Eddie-Park.jpg
         info: "Description coming soon"
@@ -334,7 +334,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Ricardo Ramirez, PhD"
-        id: "ricardo"
+        id: "Ricardo-Ramirez"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Ricardo-Ramirez.jpg
         info: "Description coming soon"
@@ -342,7 +342,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Marissa Macchietto, PhD"
-        id: "marissa"
+        id: "Marissa-Macchietto"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Marissa-Macchietto.jpg
         info: "Description coming soon"
@@ -350,7 +350,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Weihua "Benny" Zeng, PhD"
-        id: "benny"
+        id: "Benny-Zeng"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Benny-Zeng.jpg
         info: "Description coming soon"
@@ -358,7 +358,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Shan "Mandy" Jiang, PhD"
-        id: "mandy"
+        id: "Shan-Mandy-Jiang"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Shan-Mandy-Jiang.jpg
         info: "Description coming soon"
@@ -366,7 +366,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Rabi Murad, PhD"
-        id: "rabi"
+        id: "Rabi-Murad"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Rabi-Murad.jpg
         info: "Description coming soon"
@@ -374,7 +374,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Savanna Ma, PhD"
-        id: "savanna"
+        id: "Savannah-Ma"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Savannah-Ma.jpg
         info: "Description coming soon"
@@ -382,7 +382,7 @@ past_members:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
       - name: "Nicole-El-Ali, PhD"
-        id: "Nicole"
+        id: "Nicole-El-Ali"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Nicole-El-Ali.jpg
         info: "Description coming soon"
