@@ -7,14 +7,26 @@ services:
     text: "There are many diverse projects going on in the lab"
     section: services
     list:
-      - title: "[ENCODE](https://www.encodeproject.org/)"
+      - title: "Functional Genomics of Cellular Differentiation"
+        desc: "We use myogenesis and myeloid cell differentiation as models of differentiation in a dish for functional genomics. We use assays such RNA-seq, microRNA-seq, ATAC-seq, and ChIP-seq to understand how gene expression and chromatin state change in time courses of differentiation."
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "Gene Regulatory Networks"
+        desc: "We are building models of gene regulatory networks using either bulk or single-cell RNA-seq, and ATAC-seq in human, rodents, and other vertebrates."
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "Long-read Transcriptomics"
+        desc: "We are leveraging the PacBio and Oxford Nanopore platforms to sequence full-length transcripts to characterize the true extent of alternative splicing."
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "ENCODE"
         desc: "We are an ENCODE production lab and produce and analyze long-read and micro RNA-seq datasets for the consortium."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
-      - title: "[Model AD](https://www.model-ad.org/)"
-        desc: "Working towards developing a more comprehensive mouse model for Alzheimer's Disease."
+      - title: "Non-model Organisms"
+        desc: "Using functional genomics in animals besides the well-established model organisms."
+        icon: fas fa-dna #find more at https://fontawesome.com/icons
+      - title: "Model AD"
+        desc: "We are part of a NIA Consortium to build better late-onset Alzheimer’s Disease models in mouse. Our part includes both bioinformatics as well as single-cell transcriptomics."
         icon: fas fa-brain       
       - title: "FSHD"
-        desc: "Understanding the mechanisms behind the pathology in Facioscapulohumeral muscular dystrophy."
+        desc: "We are using functional genomics to understand the mechanisms driving the pathology of Facioscapulohumeral muscular dystrophy."
         icon: fas fa-male
 
 
