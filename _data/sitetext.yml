@@ -16,9 +16,6 @@ services:
       - title: "Long-read Transcriptomics"
         desc: "We are leveraging the PacBio and Oxford Nanopore platforms to sequence full-length transcripts to characterize the true extent of alternative splicing."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
-      - title: "ENCODE"
-        desc: "We are an ENCODE production lab and produce and analyze long-read and micro RNA-seq datasets for the consortium."
-        icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Non-model Organisms"
         desc: "Using functional genomics in animals besides the well-established model organisms."
         icon: fas fa-dna #find more at https://fontawesome.com/icons
