@@ -97,7 +97,31 @@ team:
         id: "gaby"
         role: "Dev Cell PhD Student"
         image: assets/img/team/gaby.jpg
-        info: "Description coming soon"
+        info: "
+            **Research Interests:**
+            \nWorking in the intersection of sequencing techologies and data analysis to understand  Alzheimer's disease. 
+            Additional collaborations include cancer biology and Biology/immunity of Peromyscus leucopus. 
+            \n\n
+            **Experience with:**
+            \nRNA-seq (bulk, single-cell, single-nucleus)
+            \nData analysis
+            \nMetabolomics
+            \nSemi-fluent in R
+            \nBegginer in Python
+            \n\n
+            **Links:**
+            \n**Personal Website (Coming soon!)**
+            \n[**ORCID**](http://orcid.org/0000-0002-5794-4518)
+            \n[**LinkedIn**](www.linkedin.com/in/GabyBG)
+            \n[**GitHub**](https://github.com/GabyBG)
+            \n\n
+            **Personal Interests:**
+            \nHuman.Controversial yet brave. In love with ballet but also taco lover. 
+            Full-time PomMom who dances to New wave music.
+            \n\n
+            **Contact:**
+            \n gbalderr {at} uci.edu
+            "
         social:
           - url: https://twitter.com/Sakuxxy
             icon: fab fa-twitter
@@ -137,9 +161,17 @@ team:
         id: "christina"
         role: "Dev Cell PhD Student"
         image: assets/img/team/christina.jpg
+        info: "
+          **Research Interests:**
+          \nI have three main projects. The first is my main thesis project investigating a time-series of embryonic stem cell differentiation to neuronal and endodermal lineages via RNA-seq and ATAC-seq in multiple mammalian species. The transcriptional and chromatin information gathered from these time courses are used to build and compare gene regulatory networks for each lineage and species. The second and third projects are related collaboration projects in collaboration with the Baram lab at UC Irvine. Both projects investigate early life stress (ELS) and how early life experiences can affect gene expression and contribute to mental illness in adulthood. The first of these investigates single cell transcriptomics of Corticotropin-releasing hormone (CRH) expressing neurons of the mouse hypothalamus after a model of ELS. Cells from the hypothalamus are separated via FACS and the transcriptome is analyzed via single cell RNA-seq. The second related project investigates methylation heterogeneity in human babies via buccal swabs during the first year of life to investigate a range of ELS in humans.
+          \n\n
+          **Links:**
+          \n[**LinkedIn**](https://www.linkedin.com/in/christinawilcoxthai/)
+          \n\n
+        "
         social:
-          # - url: https://www.linkedin.com/in/christinawilcoxthai/
-          #   icon: fab fa-linkedin-in
+          - url: https://twitter.com/GeneBioGenie
+            icon: fab fa-twitter
       - name: "Klebea Carvalho"
         id: "bea"
         role: "Pharmaceutical Sciences PhD Student"
