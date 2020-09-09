@@ -349,7 +349,7 @@ past_members:
         social:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
-      - name: "Weihua "Benny" Zeng, PhD"
+      - name: "Weihua 'Benny' Zeng, PhD"
         id: "Benny-Zeng"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Benny-Zeng.jpg
@@ -357,7 +357,7 @@ past_members:
         social:
           # - url: https://www.linkedin.com/in/lorrayne-clague-48120055/
           #   icon: fab fa-linkedin-in
-      - name: "Shan "Mandy" Jiang, PhD"
+      - name: "Shan 'Mandy' Jiang, PhD"
         id: "Shan-Mandy-Jiang"
         role: "Former Dev Cell PhD Student"
         image: assets/img/team/Shan-Mandy-Jiang.jpg
