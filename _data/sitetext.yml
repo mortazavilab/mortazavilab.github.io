@@ -238,6 +238,10 @@ timeline:
     text: "What's happening in the lab?"
     section: timeline
     events:
+      # - title: "Jaz joins the lab!"
+        # year: "Summer 2020"
+        # desc: "Jaz, an Pharm Sci PhD student, has officially joined the lab! Welcome! She is currently working on metabolic transcriptomic labelling."
+        # image: assets/img/team/narges.jpg
       - title: "Graduations"
         year: "Spring 2020"
         desc: "We celebrate the graduation of three of our PhD students this spring! Congratulations to Drs. Dana Wyman, Sorena Rahmanian, and Lorrayne Serra Clague! Best of luck to all of you."
