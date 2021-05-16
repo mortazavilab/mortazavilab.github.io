@@ -21,7 +21,7 @@ services:
         icon: fas fa-dna #find more at https://fontawesome.com/icons
       - title: "Model AD"
         desc: "We are part of a NIA Consortium to build better late-onset Alzheimer’s Disease models in mouse. Our part includes both bioinformatics as well as single-cell transcriptomics."
-        icon: fas fa-brain       
+        icon: fas fa-brain
       - title: "FSHD"
         desc: "We are using functional genomics to understand the mechanisms driving the pathology of Facioscapulohumeral muscular dystrophy."
         icon: fas fa-male
@@ -31,7 +31,7 @@ portfolio:
     title: "Software"
     text: "Software produced by the lab used to analyze genomics data"
     section: portfolio
-    
+
 team:
     title: "People"
     # text: ""
@@ -99,14 +99,14 @@ team:
             \n[**TALON:**](https://github.com/mortazavilab/TALON) Technology-agnostic long-read annotation and quantification pipeline
             \n\n
             **Links:**
-            \n**Personal Website (Coming soon!)**
+            \n[**Personal Website**](https://fairliereese.github.io/)
             \n[**Google Scholar**](https://scholar.google.com/citations?user=SgA5IcgAAAAJ&hl=en)
             \n[**ORCID**](http://orcid.org/0000-0002-9240-0102)
             \n[**LinkedIn**](https://www.linkedin.com/in/fairlie-reese-a930a5b7/)
             \n[**GitHub**](https://github.com/fairliereese)
             \n\n
             **Personal Interests:**
-            \nWhen I'm not working (and there's not a pandemic going on) you can find me at the beach, at rock concerts, or eating Mexican food. 
+            \nWhen I'm not working (and there's not a pandemic going on) you can find me at the beach, at rock concerts, or eating Mexican food.
             At home, I like to play video games, Dungeons and Dragons, and hang out with my cats.
             \n\n
             **Contact:**
@@ -123,8 +123,8 @@ team:
         image: assets/img/team/gaby.jpg
         info: "
             **Research Interests:**
-            \nWorking in the intersection of sequencing techologies and data analysis to understand  Alzheimer's disease. 
-            Additional collaborations include cancer biology and Biology/immunity of Peromyscus leucopus. 
+            \nWorking in the intersection of sequencing techologies and data analysis to understand  Alzheimer's disease.
+            Additional collaborations include cancer biology and Biology/immunity of Peromyscus leucopus.
             \n\n
             **Experience with:**
             \nRNA-seq (bulk, single-cell, single-nucleus)
@@ -140,7 +140,7 @@ team:
             \n[**GitHub**](https://github.com/GabyBG)
             \n\n
             **Personal Interests:**
-            \nHuman.Controversial yet brave. In love with ballet but also taco lover. 
+            \nHuman.Controversial yet brave. In love with ballet but also taco lover.
             Full-time PomMom who dances to New wave music.
             \n\n
             **Contact:**
@@ -176,7 +176,7 @@ team:
             \n[**GitHub**](https://github.com/CurlsForScience)
             \n\n
             **Personal Interests:**
-            \nI love to dance, specifically lindy hop and east coast swing. I especially love dancing at Disneyland. Most importantly, I enjoy spending time with my dog and being out in the California sun. 
+            \nI love to dance, specifically lindy hop and east coast swing. I especially love dancing at Disneyland. Most importantly, I enjoy spending time with my dog and being out in the California sun.
             \n\n
             **Contact:**
             \n kwillia4 {at} uci.edu
@@ -190,7 +190,7 @@ team:
         image: assets/img/team/bea.jpg
         info: "
           **Research Interests:**
-          \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing. 
+          \nMy research interest spans immunology, neuroscience and genomics-related topics. I evaluate changes in gene expression and chromatin accessibility at bulk and single-cell levels during health and disease states by applying different NGS techniques such as scRNA-seq, snATAC-seq, miRNA-seq and long reads sequencing.
           \n\n
           **Links:**
           \n[**Google Scholar**](https://scholar.google.com/citations?user=jpc4QIwAAAAJ&hl=en&authuser=2)
@@ -201,7 +201,7 @@ team:
           \nI love visiting new countries and learning about new cultures. I also enjoy going on road trips and camping with my husband. I appreciate a good thriller, whether it’s a movie or book, such that I’ve probably read all of the Agatha Christie’s books. I have an adorable cat named Mochi and I play piano and drums.
           \n\n
           **Contact:**
-          \n kmcarval {at} uci.edu 
+          \n kmcarval {at} uci.edu
         "
         social:
           - url: https://twitter.com/klebea
@@ -234,7 +234,7 @@ team:
             icon: fab fa-github
 
 timeline:
-    title: "News" 
+    title: "News"
     text: "What's happening in the lab?"
     section: timeline
     events:
@@ -242,25 +242,25 @@ timeline:
         year: "Spring 2020"
         desc: "We celebrate the graduation of three of our PhD students this spring! Congratulations to Drs. Dana Wyman, Sorena Rahmanian, and Lorrayne Serra Clague! Best of luck to all of you."
         image: assets/img/timeline/diploma.jpg
-        alt: 
+        alt:
         align: left
       - title: "snRNA-seq FSHD2 publication"
         year: "May 2020"
         desc: "Kate and Mandy's single-nucleus FSHD2 study, entitled \"Single-nucleus RNA-seq identifies divergent populations of FSHD2 myotube nuclei\", was published in PLoS Genetics. Read it [here](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008754&rev=2)."
         image: assets/img/timeline/muscle.jpg
-        alt: 
+        alt:
         align: right
       - title: "Narges joins the lab!"
         year: "March 2020"
         desc: "Narges, an MCSB PhD student, has officially joined the lab! Welcome! She is currently working as a bioinformatician working on the Model AD project."
         image: assets/img/team/narges.jpg
-        alt: 
+        alt:
         align: left
       - title: "Hydra vulgaris opsin gene evolution and expression publication"
         year: "December 2019"
         desc: "Aide's Hydra opsin gene study, \"Molecular evolution and expression of opsin genes in Hydra vulgaris\", was published in BMC Genomics. You can read it [here](https://link.springer.com/article/10.1186/s12864-019-6349-y)."
         image: assets/img/timeline/hydra.png
-        alt: 
+        alt:
         align: right
       - title: "Gene regulatory networks from scATAC and scRNA-seq linked SOM publication"
         year: "November 2019"
@@ -463,7 +463,7 @@ publications:
 
       - title: Progressive Clustering and Characterization of Increasingly Higher Dimensional Datasets with Living Self-organizing Maps
         author: Jansen, Camden and Mortazavi, Ali
-        journal: 
+        journal:
         year: 2019
 
       - title: The genome of Peromyscus leucopus, natural host for Lyme disease and other emerging infections
@@ -483,7 +483,7 @@ publications:
 
       - title: Intra-individual changes in methylome profiles; an epigenetic'scar'of early-life adversity?
         author: Mortazavi, Ali and Baram, Tallie Z
-        journal: 
+        journal:
         year: 2019
 
       - title: A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification
@@ -498,7 +498,7 @@ publications:
 
       - title: Dynamics of microRNA expression during mouse prenatal development
         author: Murad, Rabi and Rahmanian, Sorena and Breschi, Alessandra and Zeng, Weihua and Mackiewicz, Mark and Williams, Brian and Davis, Carrie and Roberts, Brian and Meadows, Sarah and Moore, Dianne and others
-        journal: 
+        journal:
         year: 2018
 
       - title: Blocking NRSF Function Rescues Spatial Memory Impaired by Early-Life Adversity and Reveals Unexpected Underlying Transcriptional Programs
@@ -755,12 +755,12 @@ about:
     title: "About Us"
     text: "our story"
     section: about
-          
+
 contact:
     title: "Contact Us"
     # text: "Lorem ipsum or call 123456789"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
