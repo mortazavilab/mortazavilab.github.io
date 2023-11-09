@@ -1,5 +1,3 @@
----
----
 $(function() {
 
   $("#contactForm input,#contactForm textarea").jqBootstrapValidation({
@@ -10,7 +8,7 @@ $(function() {
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
-	  var url = "https://formspree.io/" + "{{ site.email }}";
+	  var url = "https://formspree.io/" + "ali.mortazavi@uci.edu";
       var name = $("input#name").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();
