@@ -1,620 +1,621 @@
-      - title: Long-read sequencing transcriptome quantification with lr-kallisto
-        author: Loving, Rebekah K and Sullivan, Delaney K and Reese, Fairlie and Rebboah, Elisabeth and Sakr, Jasmine and Rezaie, Narges and Liang, Heidi Y and Filimban, Ghassan and Kawauchi, Shimako and Oakes, Conrad and others
-        journal: bioRxiv
-        year: 2024
-
-      - title: Systematic assessment of long-read RNA-seq methods for transcript identification and quantification
-        author: Pardo-Palacios, Francisco J and Wang, Dingjie and Reese, Fairlie and Diekhans, Mark and Carbonell-Sala, S{\'\i}lvia and Williams, Brian and Loveland, Jane E and De Mar{\'\i}a, Maite and Adams, Matthew S and Balderrama-Gutierrez, Gabriela and others
-        journal: Nature methods
-        year: 2024
-
-      - title: The ENCODE mouse postnatal developmental time course identifies regulatory programs of cell types and cell states
-        author: Rebboah, Elisabeth and Rezaie, Narges and Williams, Brian A and Weimer, Annika K and Shi, Minyi and Yang, Xinqiong and Liang, Heidi Yahan and Dionne, Louise and Reese, Fairlie and Trout, Diane and others
-        journal: bioRxiv
-        year: 2024
-
-      - title: Single-cell spatial transcriptomics reveals a dystrophic trajectory following a developmental bifurcation of myoblast cell fates in facioscapulohumeral muscular dystrophy
-        author: Chen, Lujia and Kong, Xiangduo and Johnston, Kevin G and Mortazavi, Ali and Holmes, Todd C and Tan, Zhiqun and Yokomori, Kyoko and Xu, Xiangmin
-        journal: Genome Research
-        year: 2024
-
-      - title: Individual longitudinal changes in DNA-methylome identify signatures of early-life adversity and correlate with later outcome.
-        author: Short, Annabel K and Weber, Ryan and Kamei, Noriko and Thai, Christina Wilcox and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura and Baram, Tallie Z
-        journal: Neurobiology of Stress
-        year: 2024
-
-      - title: Identification of robust cellular programs using reproducible LDA that impact sex-specific disease progression in different genotypes of a mouse model of AD
-        author: Rezaie, Narges and Rebboah, Elisabeth and Williams, Brian A and Liang, Heidi Yahan and Reese, Fairlie and Balderrama-Gutierrez, Gabriela and Dionne, Louise A and Reinholdt, Laura and Trout, Diane and Wold, Barbara J and others
-        journal: bioRxiv
-        year: 2024
-
-      - title: The Abca7V1613M variant reduces A$\beta$ generation, plaque load, and neuronal damage
-        author: Butler, Claire A and Mendoza Arvilla, Adrian and Milinkeviciute, Giedre and Da Cunha, Celia and Kawauchi, Shimako and Rezaie, Narges and Liang, Heidi Y and Javonillo, Dominic and Thach, Annie and Wang, Shuling and others
-        journal: Alzheimer's \& Dementia
-        year: 2024
-
-      - title: BIN1K358R suppresses glial response to plaques in mouse model of Alzheimer's disease
-        author: Garcia-Agudo, Laura Fernandez and Shi, Zechuan and Smith, Ian F and Kram{\'a}r, Enik{\"o} A and Tran, Katelynn and Kawauchi, Shimako and Wang, Shuling and Collins, Sherilyn and Walker, Amber and Shi, Kai-Xuan and others
-        journal: Alzheimer's \& Dementia
-        year: 2024
-
-      - title: Genetic diversity promotes resilience in a mouse model of Alzheimer's disease
-        author: Soni, Neelakshi and Hohsfield, Lindsay A and Tran, Kristine M and Kawauchi, Shimako and Walker, Amber and Javonillo, Dominic and Phan, Jimmy and Matheos, Dina and Da Cunha, Celia and Uyar, Asli and others
-        journal: Alzheimer's \& Dementia
-        year: 2024
-
-      - title: Engineered FSHD mutations results in D4Z4 heterochromatin disruption and feedforward DUX4 network activation
-        author: Kong, Xiangduo and Nguyen, Nam Viet and Li, Yumeng and Sakr, Jasmine Shaaban and Williams, Kate and Sharifi, Sheila and Chau, Jonathan and Bayrakci, Altay and Mizuno, Seiya and Takahashi, Satoru and others
-        journal: Iscience
-        year: 2024
-
-      - title: The ENCODE4 long-read RNA-seq collection reveals distinct classes of transcript structure diversity
-        author: Reese, Fairlie and Williams, Brian and Balderrama-Gutierrez, Gabriela and Wyman, Dana and {\c{C}}elik, Muhammed Hasan and Rebboah, Elisabeth and Rezaie, Narges and Trout, Diane and Razavi-Mohseni, Milad and Jiang, Yunzhe and others
-        journal: bioRxiv
-        year: 2023
-
-      - title: Single-cell transcriptional changes in hypothalamic corticotropin-releasing factor--expressing neurons after early-life adversity inform enduring alterations in vulnerabilities to stress
-        author: Short, Annabel K and Thai, Christina W and Chen, Yuncai and Kamei, Noriko and Pham, Aidan L and Birnie, Matthew T and Bolton, Jessica L and Mortazavi, Ali and Baram, Tallie Z
-        journal: Biological Psychiatry Global Open Science
-        year: 2023
-
-      - title: PyWGCNA; A Python package for weighted gene co-expression network analysis
-        author: Rezaie, Narges and Reese, Farilie and Mortazavi, Ali
-        journal: Bioinformatics
-        year: 2023
-
-      - title: The EN-TEx resource of multi-tissue personal epigenomes \& variant-impact models
-        author: Rozowsky, Joel and Gao, Jiahao and Borsari, Beatrice and Yang, Yucheng T and Galeev, Timur and G{\"u}rsoy, Gamze and Epstein, Charles B and Xiong, Kun and Xu, Jinrui and Li, Tianxiao and others
-        journal: Cell
-        year: 2023
-
-      - title: The ENCODE uniform analysis pipelines
-        author: Hitz, Benjamin C and Lee, Jin-Wook and Jolanki, Otto and Kagda, Meenakshi S and Graham, Keenan and Sud, Paul and Gabdank, Idan and Strattan, J Seth and Sloan, Cricket A and Dreszer, Timothy and others
-        journal: Research Square
-        year: 2023
-
-      - title: Within-subject changes in methylome profile identify individual signatures of early-life adversity, with a potential to predict neuropsychiatric outcome
-        author: Short, Annabel K and Weber, Ryan and Kamei, Noriko and Thai, Christina Wilcox and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura and Baram, Tallie Z
-        journal: bioRxiv
-        year: 2023
-
-      - title: Signalling by senescent melanocytes hyperactivates hair growth
-        author: Wang, Xiaojie and Ramos, Raul and Phan, Anne Q and Yamaga, Kosuke and Flesher, Jessica L and Jiang, Shan and Oh, Ji Won and Jin, Suoqin and Jahid, Sohail and Kuan, Chen-Hsiang and others
-        journal: Nature
-        year: 2023
-
-      - title: C5aR1 antagonism suppresses inflammatory glial gene expression and alters cellular signaling in an aggressive Alzheimer’s model
-        author: Schartz, Nicole D and Liang, Heidi Y and Carvalho, Klebea and Chu, Shu-Hui and Mendoza-Arvilla, Adrian and Petrisko, Tiffany J and Gomez-Arboledas, Angela and Mortazavi, Ali and Tenner, Andrea J
-        journal: bioRxiv
-        year: 2023
-
-      - title: Within-subject changes in DNA-methylome profile identify individual signatures of early-life adversity, with a potential to predict neuropsychiatric outcome.
-        author: Short, Annabel K and Weber, Ryan L and Kamei, Noriko and Wilcox-Thai, Christina and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura L and Baram, Tallie Z
-        journal: bioRxiv
-        year: 2023
-
-      - title: A Trem2 R47H mouse model without cryptic splicing drives age-and disease-dependent tissue damage and synaptic loss in response to plaques
-        author: Tran, Kristine M and Kawauchi, Shimako and Kram{\'a}r, Enik{\"o} A and Rezaie, Narges and Liang, Heidi Yahan and Sakr, Jasmine S and Gomez-Arboledas, Angela and Arreola, Miguel A and Cunha, Celia da and Phan, Jimmy and others
-        journal: Molecular neurodegeneration
-        year: 2023
-
-      - title: L-GIREMI uncovers RNA editing sites in long-read RNA-seq
-        author: Liu, Zhiheng and Quinones-Valdez, Giovanni and Fu, Ting and Huang, Elaine and Choudhury, Mudra and Reese, Fairlie and Mortazavi, Ali and Xiao, Xinshu
-        journal: Genome Biology
-        year: 2023
-
-      - title: Systematic phenotyping and characterization of the 3xTg-AD mouse model of Alzheimer’s disease
-        author: Javonillo, Dominic I and Tran, Kristine M and Phan, Jimmy and Hingco, Edna and Kram{\'a}r, Enik{\"o} A and da Cunha, Celia and Forner, Stefania and Kawauchi, Shimako and Milinkeviciute, Giedre and Gomez-Arboledas, Angela and others
-        journal: Frontiers in Neuroscience
-        year: 2022
-
-      - title: Disruption of $\beta$-Catenin--Dependent Wnt Signaling in Colon Cancer Cells Remodels the Microenvironment to Promote Tumor Invasion
-        author: Chen, George T and Tifrea, Delia F and Murad, Rabi and Habowski, Amber N and Lyou, Yung and Duong, Madeleine R and Hosohama, Linzi and Mortazavi, Ali and Edwards, Robert A and Waterman, Marian L
-        journal: Molecular Cancer Research
-        year: 2022
-
-      - title: Uncovering the mesendoderm gene regulatory network through multi-omic data integration
-        author: Jansen, Camden and Paraiso, Kitt D and Zhou, Jeff J and Blitz, Ira L and Fish, Margaret B and Charney, Rebekah M and Cho, Jin Sun and Yasuoka, Yuuri and Sudou, Norihiro and Bright, Ann Rose and others
-        journal: Cell reports
-        year: 2022
-
-      - title: Multiple mechanisms of photoreceptor spectral tuning in Heliconius butterflies
-        author: McCulloch, Kyle J and Macias-Mu{\~n}oz, Aide and Mortazavi, Ali and Briscoe, Adriana D
-        journal: Molecular biology and evolution
-        year: 2022
-
-      - title: Integration of high-resolution promoter profiling assays reveals novel, cell type--specific transcription start sites across 115 human cell and tissue types
-        author: Moore, Jill E and Zhang, Xiao-Ou and Elhajjajy, Shaimae I and Fan, Kaili and Pratt, Henry E and Reese, Fairlie and Mortazavi, Ali and Weng, Zhiping
-        journal: Genome Research
-        year: 2022
-
-      - title: Heterogeneous skeletal muscle cell and nucleus populations identified by single-cell and single-nucleus resolution transcriptome assays
-        author: Williams, Katherine and Yokomori, Kyoko and Mortazavi, Ali
-        journal: Frontiers in Genetics
-        year: 2022
-
-      - title: Single cell analysis reveals the molecular signaling and cellular composition of the regenerating Hydra head
-        author: Macias-Mu{\~n}oz, A and Mesrop, LY and Liang, HY and Mortazavi, A
-        journal: 
-        year: 2022
-
-      - title: C5aR1 antagonism alters microglial polarization and mitigates disease progression in a mouse model of Alzheimer’s disease
-        author: Gomez-Arboledas, Angela and Carvalho, Klebea and Balderrama-Gutierrez, Gabriela and Chu, Shu-Hui and Liang, Heidi Yahan and Schartz, Nicole D and Selvan, Purnika and Petrisko, Tiffany J and Pan, Miranda A and Mortazavi, Ali and others
-        journal: Acta neuropathologica communications
-        year: 2022
-
-      - title: Integrative analysis of Hydra head regeneration reveals actions of conserved signaling pathways and transposable elements
-        author: Macias-Mu{\~n}oz, Aide and Mesrop, Lisa Y and Liang, Heidi Yahan and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2022
-
-      - title: Engineered SMCHD1 and D4Z4 mutations reveal roles of D4Z4 heterochromatin disruption and feedforward DUX4 network activation in FSHD
-        author: Kong, Xiangduo and Nguyen, Nam Viet and Li, Yumeng and Sakr, Jasmine Shaaban and Williams, Katherine and Sharifi, Sheila and Chau, Jonathan and Bayrakci, Altay and Mizuno, Seiya and Takahashi, Satoru and others
-        journal: bioRxiv
-        year: 2022
-
-      - title: Analysis of alternative polyadenylation from long-read or short-read RNA-seq with LAPA
-        author: {\c{C}}elik, Muhammed Hasan and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2022
-
-      - title: Modulation of C5a--C5aR1 signaling alters the dynamics of AD progression
-        author: Carvalho, Klebea and Schartz, Nicole D and Balderrama-Gutierrez, Gabriela and Liang, Heidi Y and Chu, Shu-Hui and Selvan, Purnika and Gomez-Arboledas, Angela and Petrisko, Tiffany J and Fonseca, Maria I and Mortazavi, Ali and others
-        journal: Journal of neuroinflammation
-        year: 2022
-
-      - title: Linking chromosomal silencing with xist expression from autosomal integrated transgenes
-        author: Naciri, Ikrame and Lin, Benjamin and Webb, Chiu-Ho and Jiang, Shan and Carmona, Sarah and Liu, Wenzhu and Mortazavi, Ali and Sun, Sha
-        journal: Frontiers in Cell and Developmental Biology
-        year: 2021
-
-      - title: Swan; a library for the analysis and visualization of long-read transcriptomes
-        author: Reese, Fairlie and Mortazavi, Ali
-        journal: Bioinformatics
-        year: 2021
-
-      - title: A revised adaptation of the smart-Seq2 protocol for single-nematode RNA-seq
-        author: Chang, Dennis and Serra, Lorrayne and Lu, Dihong and Mortazavi, Ali and Dillman, Adler
-        journal: RNA Abundance Analysis; Methods and Protocols
-        year: 2021
-
-      - title: Uncovering the gene regulatory networks underlying macrophage polarization through comparative analysis of bulk and single-cell data
-        author: Carvalho, Klebea and Rebboah, Elisabeth and Jansen, Camden and Williams, Katherine and Dowey, Andrew and McGill, Cassandra and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2021
-
-      - title: Comparative Chromatin Dynamics of Stem Cell Differentiation in Human and Rat
-        author: Thai, Christina Wilcox and Jiang, Shan and Roxas, Yuka and McGill, Cassandra and Ma, Savanna and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2021
-
-      - title: Systematic phenotyping and characterization of the 5xFAD mouse model of Alzheimer’s disease
-        author: Forner, Stefania and Kawauchi, Shimako and Balderrama-Gutierrez, Gabriela and Kram{\'a}r, Enik{\"o} A and Matheos, Dina P and Phan, Jimmy and Javonillo, Dominic I and Tran, Kristine M and Hingco, Edna and da Cunha, Celia and others
-        journal: Scientific data
-        year: 2021
-
-      - title: Subventricular zone/white matter microglia reconstitute the empty adult microglial niche in a dynamic wave
-        author: Hohsfield, Lindsay A and Najafi, Allison R and Ghorbanian, Yasamine and Soni, Neelakshi and Crapser, Joshua and Velez, Dario X Figueroa and Jiang, Shan and Royer, Sarah E and Kim, Sung Jin and Henningfield, Caden M and others
-        journal: Elife
-        year: 2021
-
-      - title: Generation of a humanized A$\beta$ expressing mouse demonstrating aspects of Alzheimer’s disease-like pathology
-        author: Baglietto-Vargas, David and Forner, Stefania and Cai, Lena and Martini, Alessandra C and Trujillo-Estrada, Laura and Swarup, Vivek and Nguyen, Marie Minh Thu and Do Huynh, Kelly and Javonillo, Dominic I and Tran, Kristine Minh and others
-        journal: Nature communications
-        year: 2021
-
-      - title: Transcriptome analysis of heterogeneity in mouse model of metastatic breast cancer
-        author: Ionkina, Anastasia A and Balderrama-Gutierrez, Gabriela and Ibanez, Krystian J and Phan, Steve Huy D and Cortez, Angelique N and Mortazavi, Ali and Prescher, Jennifer A
-        journal: Breast Cancer Research
-        year: 2021
-
-      - title: Mapping and modeling the genomic basis of differential RNA isoform expression at single-cell resolution with LR-Split-seq
-        author: Rebboah, Elisabeth and Reese, Fairlie and Williams, Katherine and Balderrama-Gutierrez, Gabriela and McGill, Cassandra and Trout, Diane and Rodriguez, Isaryhia and Liang, Heidi and Wold, Barbara J and Mortazavi, Ali
-        journal: Genome biology
-        year: 2021
-
-      - title: An infection-tolerant mammalian reservoir for several zoonotic agents broadly counters the inflammatory effects of endotoxin
-        author: Balderrama-Gutierrez, Gabriela and Milovic, Ana and Cook, Vanessa J and Islam, M Nurul and Zhang, Youwen and Kiaris, Hippokratis and Belisle, John T and Mortazavi, Ali and Barbour, Alan G
-        journal: Mbio
-        year: 2021
-
-      - title: Muscle group specific transcriptomic and DNA methylation differences related to developmental patterning in FSHD
-        author: Williams, Katherine and Kong, Xiangduo and Nguyen, Nam Viet and McGill, Cassandra and Tawil, Rabi and Yokomori, Kyoko and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2021
-
-      - title: A Bioinformatics Pipeline for Investigating Molecular Evolution and Gene Expression using RNA-seq
-        author: Macias-Mu{\~n}oz, Aide and Mortazavi, Ali
-        journal: JoVE (Journal of Visualized Experiments)
-        year: 2021
-
-      - title: Coordinated gene expression and chromatin regulation during Hydra head regeneration
-        author: Murad, Rabi and Macias-Mu{\~n}oz, Aide and Wong, Ashley and Ma, Xinyi and Mortazavi, Ali
-        journal: Genome Biology and Evolution
-        year: 2021
-
-      - title: Diverse functional elements in RNA predicted transcriptome-wide by orthogonal RNA structure probing
-        author: Chan, Dalen and Feng, Chao and England, Whitney E and Wyman, Dana and Flynn, Ryan A and Wang, Xiuye and Shi, Yongsheng and Mortazavi, Ali and Spitale, Robert C
-        journal: Nucleic Acids Research
-        year: 2021
-
-      - title: Relationship of DUX4 and target gene expression in FSHD myocytes
-        author: Chau, Jonathan and Kong, Xiangduo and Viet Nguyen, Nam and Williams, Katherine and Ball, Miya and Tawil, Rabi and Kiyono, Tohru and Mortazavi, Ali and Yokomori, Kyoko
-        journal: Human Mutation
-        year: 2021
-
-      - title: Single-cell and nucleus RNA-seq in a mouse model of AD reveal activation of distinct glial subpopulations in the presence of plaques and tangles
-        author: Balderrama-Gutierrez, Gabriela and Liang, Heidi and Rezaie, Narges and Carvalho, Klebea and Forner, Stefania and Matheos, Dina and Rebboah, Elisabeth and Green, Kim N and Tenner, Andrea J and LaFerla, Frank and others
-        journal: bioRxiv
-        year: 2021
-
-      - title: Microglial dyshomeostasis drives perineuronal net and synaptic loss in a CSF1R+/- mouse model of ALSP, which can be rescued via CSF1R inhibitors
-        author: Arreola, Miguel A and Soni, Neelakshi and Crapser, Joshua D and Hohsfield, Lindsay A and Elmore, Monica RP and Matheos, Dina P and Wood, Marcelo A and Swarup, Vivek and Mortazavi, Ali and Green, Kim N
-        journal: Science Advances
-        year: 2021
-
-      - title: Transcriptome and chromatin landscape changes associated with trastuzumab resistance in HER2+ breast cancer cells
-        author: Murad, Rabi and Avanes, Arabo and Ma, Xinyi and Geng, Shuhui and Mortazavi, Ali and Momand, Jamil
-        journal: Gene
-        year: 2021
-
-      - title: Single-nucleus RNA-seq identifies divergent populations of FSHD2 myotube nuclei
-        author: Jiang, Shan and Williams, Katherine and Kong, Xiangduo and Zeng, Weihua and Nguyen, Nam Viet and Ma, Xinyi and Tawil, Rabi and Yokomori, Kyoko and Mortazavi, Ali
-        journal: PLoS genetics
-        year: 2020
-
-      - title: Unexpected transcriptional programs contribute to hippocampal memory deficits and neuronal stunting after early-life adversity
-        author: Bolton, Jessica L and Schulmann, Anton and Garcia-Curran, Megan M and Regev, Limor and Chen, Yuncai and Kamei, Noriko and Shao, Manlin and Singh-Taylor, Akanksha and Jiang, Shan and Noam, Yoav and others
-        journal: Cell reports
-        year: 2020
-
-      - title: Slug regulates the Dll4-Notch-VEGFR2 axis to control endothelial cell activation and angiogenesis
-        author: Hultgren, Nan W and Fang, Jennifer S and Ziegler, Mary E and Ramirez, Ricardo N and Phan, Duc TT and Hatch, Michaela MS and Welch-Reardon, Katrina M and Paniagua, Antonio E and Kim, Lin S and Shon, Nathan N and others
-        journal: Nature communications
-        year: 2020
-
-      - title: Comparative transcriptomics of heads and tails between Steinernema carpocapsae and Caenorhabditis elegans
-        author: Rodriguez, Isaryhia Maya and Clague, Lorrayne Serra and McGill, Cassandra Joan and Rodriguez, Bryan and Mortazavi, Ali
-        journal: bioRxiv
-        year: 2020
-
-      - title: Long-TUC-seq is a robust method for quantification of metabolically labeled full-length isoforms
-        author: Rahmanian, Sorena and Balderrama-Gutierrez, Gabriela and Wyman, Dana and McGill, Cassandra Joan and Nguyen, Kim and Spitale, Robert and Mortazavi, Ali
-        journal: BioRxiv
-        year: 2020
-
-      - title: Progressive Clustering and Characterization of Increasingly Higher Dimensional Datasets with Living Self-organizing Maps
-        author: Jansen, Camden and Mortazavi, Ali
-        journal: 
-        year: 2020
-
-      - title: Occupancy maps of 208 chromatin-associated proteins in one human cell type
-        author: Partridge, E Christopher and Chhetri, Surya B and Prokop, Jeremy W and Ramaker, Ryne C and Jansen, Camden S and Goh, Say-Tar and Mackiewicz, Mark and Newberry, Kimberly M and Brandsmeier, Laurel A and Meadows, Sarah K and others
-        journal: Nature
-        year: 2020
-
-      - title: Expanded encyclopaedias of DNA elements in the human and mouse genomes
-        author: Moore, Jill E and Purcaro, Michael J and Pratt, Henry E and Epstein, Charles B and Shoresh, Noam and Adrian, Jessika and Kawli, Trupti and Davis, Carrie A and Dobin, Alexander and Kaul, Rajinder and others
-        journal: Nature
-        year: 2020
-
-      - title: Perspectives on ENCODE
-        author: Addleman, NJ and Adrian, J and Baymuradov, UK and Bhaskar, A and Boley, N and Cao, L and Chaib, H and Chan, ET and Chen, S and Cherry, JM and others
-        journal: Nature
-        year: 2020
-
-      - title: Intra-individual changes in methylome profiles; an epigenetic ‘scar’of early-life adversity?
-        author: Mortazavi, Ali and Baram, Tallie Z
-        journal: Neuropsychopharmacology
-        year: 2020
-
-      - title: Model organism development and evaluation for late-onset Alzheimer's disease; MODEL-AD
-        author: Oblak, Adrian L and Forner, Stefania and Territo, Paul R and Sasner, Michael and Carter, Gregory W and Howell, Gareth R and Sukoff-Rizzo, Stacey J and Logsdon, Benjamin A and Mangravite, Lara M and Mortazavi, Ali and others
-        journal: Alzheimer's \& Dementia; Translational Research \& Clinical Interventions
-        year: 2020
-
-      - title: Molecular evolution and expression of opsin genes in Hydra vulgaris
-        author: Macias-Mu{\~n}oz, Aide and Murad, Rabi and Mortazavi, Ali
-        journal: BMC genomics
-        year: 2019
-
-      - title: Intra-individual methylomics detects the impact of early-life adversity
-        author: Jiang, Shan and Kamei, Noriko and Bolton, Jessica L and Ma, Xinyi and Stern, Hal S and Baram, Tallie Z and Mortazavi, Ali
-        journal: Life science alliance
-        year: 2019
-
-      - title: A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification
-        author: Wyman, Dana and Balderrama-Gutierrez, Gabriela and Reese, Fairlie and Jiang, Shan and Rahmanian, Sorena and Forner, Stefania and Matheos, Dina and Zeng, Weihua and Williams, Brian and Trout, Diane and others
-        journal: Biorxiv
-        year: 2019
-
-      - title: STATegra, a comprehensive multi-omics dataset of B-cell differentiation in mouse
-        author: Gomez-Cabrero, David and Tarazona, Sonia and Ferreir{\'o}s-Vidal, Isabel and Ramirez, Ricardo N and Company, Carlos and Schmidt, Andreas and Reijmers, Theo and Paul, Veronica von Saint and Marabita, Francesco and Rodr{\'\i}guez-Ubreva, Javier and others
-        journal: Scientific Data
-        year: 2019
-
-      - title: A core set of venom proteins is released by entomopathogenic nematodes in the genus Steinernema
-        author: Chang, Dennis Z and Serra, Lorrayne and Lu, Dihong and Mortazavi, Ali and Dillman, Adler R
-        journal: PLoS pathogens
-        year: 2019
-
-      - title: miR-128 Restriction of LINE-1 (L1) Retrotransposition Is Dependent on Targeting hnRNPA1 mRNA
-        author: Fung, Lianna and Guzman, Herlinda and Sevrioukov, Evgueni and Idica, Adam and Park, Eddie and Bochnakian, Aurore and Daugaard, Iben and Jury, Douglas and Mortazavi, Ali and Zisoulis, Dimitrios G and others
-        journal: International journal of molecular sciences
-        year: 2019
-
-      - title: Feedforward regulation of Myc coordinates lineage-specific with housekeeping gene expression during B cell progenitor cell differentiation
-        author: Ferreir{\'o}s-Vidal, Isabel and Carroll, Thomas and Zhang, Tianyi and Lagani, Vincenzo and Ramirez, Ricardo N and Ing-Simmons, Elizabeth and G{\'o}mez-Valad{\'e}s, Alicia G and Cooper, Lee and Liang, Ziwei and Papoutsoglou, Georgios and others
-        journal: PLoS biology
-        year: 2019
-
-      - title: Hybrid assembly of the genome of the entomopathogenic nematode Steinernema carpocapsae identifies the X-chromosome
-        author: Serra, Lorrayne and Macchietto, Marissa and Macias-Mu{\~n}oz, Aide and McGill, Cassandra Joan and Rodriguez, Isaryhia Maya and Rodriguez, Bryan and Murad, Rabi and Mortazavi, Ali
-        journal: G3; Genes, Genomes, Genetics
-        year: 2019
-
-      - title: Dynamics of microRNA expression during mouse prenatal development
-        author: Rahmanian, Sorena and Murad, Rabi and Breschi, Alessandra and Zeng, Weihua and Mackiewicz, Mark and Williams, Brian and Davis, Carrie and Roberts, Brian and Meadows, Sarah and Moore, Dianne and others
-        journal: 
-        year: 2019
-
-      - title: The genome of Peromyscus leucopus, natural host for Lyme disease and other emerging infections
-        author: Long, Anthony D and Baldwin-Brown, James and Tao, Yuan and Cook, Vanessa J and Balderrama-Gutierrez, Gabriela and Corbett-Detig, Russell and Mortazavi, Ali and Barbour, Alan G
-        journal: Science Advances
-        year: 2019
-
-      - title: Building gene regulatory networks from scATAC-seq and scRNA-seq using Linked Self Organizing Maps
-        author: Jansen, Camden and Ramirez, Ricardo N and El-Ali, Nicole C and Gomez-Cabrero, David and Tegner, Jesper and Merkenschlager, Matthias and Conesa, Ana and Mortazavi, Ali
-        journal: PLoS computational biology
-        year: 2019
-
-      - title: SQANTI; extensive characterization of long-read transcript sequences for quality control in full-length transcriptome identification and quantification
-        author: Tardaguila, Manuel and de la Fuente, Lorena and Marti, Cristina and Pereira, C{\'e}cile and Pardo-Palacios, Francisco Jose and del Risco, Hector and Ferrell, Marc and Mellado, Maravillas and Macchietto, Marissa and Verheggen, Kenneth and others
-        journal: Genome research
-        year: 2018
-
-      - title: Wound regeneration deficit in rats correlates with low morphogenetic potential and distinct transcriptome profile of epidermis
-        author: Guerrero-Juarez, Christian F and Astrowski, Aliaksandr A and Murad, Rabi and Dang, Christina T and Shatrova, Vera O and Astrowskaja, Aksana and Lim, Chae Ho and Ramos, Raul and Wang, Xiaojie and Liu, Yuchen and others
-        journal: Journal of Investigative Dermatology
-        year: 2018
-
-      - title: TCF7L1 suppresses primitive streak gene expression to support human embryonic stem cell pluripotency
-        author: Sierra, Robert A and Hoverter, Nathan P and Ramirez, Ricardo N and Vuong, Linh M and Mortazavi, Ali and Merrill, Bradley J and Waterman, Marian L and Donovan, Peter J
-        journal: Development
-        year: 2018
-
-      - title: Integrating ChIP-seq with other functional genomics data
-        author: Jiang, Shan and Mortazavi, Ali
-        journal: Briefings in functional genomics
-        year: 2018
-
-      - title: Adapting the smart-seq2 protocol for robust single worm RNA-seq
-        author: Serra, Lorrayne and Chang, Dennis Z and Macchietto, Marissa and Williams, Katherine and Murad, Rabi and Lu, Dihong and Dillman, Adler R and Mortazavi, Ali
-        journal: Bio-protocol
-        year: 2018
-
-      - title: TranscriptClean; Variant-aware correction of indels, mismatches, and splice junctions in long-read transcripts
-        author: Wyman, Dana and Mortazavi, Ali
-        journal: Bioinformatics
-        year: 2018
-
-      - title: NRSF-dependent epigenetic mechanisms contribute to programming of stress-sensitive neurons by neonatal experience, promoting resilience
-        author: Singh-Taylor, Akanksha and Molet, Jenny and Jiang, Shan and Korosi, Aniko and Bolton, Jessica L and Noam, Yoav and Simeone, Kristina and Cope, Jessica and Chen, Yuncai and Mortazavi, Ali and others
-        journal: Molecular psychiatry
-        year: 2018
-
-      - title: Spatially Restricting Bioorthogonal Nucleoside Biosynthesis Enables Selective Metabolic Labeling of the Mitochondrial Transcriptome
-        author: Nguyen, Kim and Aggarwal, Mahima B and Feng, Chao and Balderrama, Gabriela and Fazio, Michael and Mortazavi, Ali and Spitale, Robert C
-        journal: ACS chemical biology
-        year: 2018
-
-      - title: A limited capacity for microglial repopulation in the adult brain
-        author: Najafi, Allison R and Crapser, Joshua and Jiang, Shan and Ng, Winnie and Mortazavi, Ali and West, Brian L and Green, Kim N
-        journal: Glia
-        year: 2018
-
-      - title: Blocking NRSF Function Rescues Spatial Memory Impaired by Early-Life Adversity and Reveals Unexpected Underlying Transcriptional Programs
-        author: Schulmann, Anton and Bolton, Jessica L and Curran, Megan M and Regev, Limor and Kamei, Noriko and Singh-Taylor, Akanksha and Jiang, Shan and Molet, Jenny and Mortazavi, Ali and Baram, Tallie Z
-        journal: Available at SSRN 3284454
-        year: 2018
-
-      - title: Bcl11b and combinatorial resolution of cell fate in the T-cell gene regulatory network
-        author: Longabaugh, William JR and Zeng, Weihua and Zhang, Jingli A and Hosokawa, Hiroyuki and Jansen, Camden S and Li, Long and Romero-Wolf, Maile and Liu, Pentao and Kueh, Hao Yuan and Mortazavi, Ali and others
-        journal: Proceedings of the National Academy of Sciences
-        year: 2017
-
-      - title: Activated entomopathogenic nematode infective juveniles release lethal venom proteins
-        author: Lu, Dihong and Macchietto, Marissa and Chang, Dennis and Barros, Mirayana M and Baldwin, James and Mortazavi, Ali and Dillman, Adler R
-        journal: PLoS Pathogens
-        year: 2017
-
-      - title: iPSC-Derived Human Microglia-like Cells to Study Neurological Diseases
-        author: Abud, Edsel M and Ramirez, Ricardo N and Martinez, Eric S and Healy, Luke M and Nguyen, Cecilia HH and Newman, Sean A and Yeromin, Andriy V and Scarfone, Vanessa M and Marsh, Samuel E and Fimbres, Cristhian and others
-        journal: Neuron
-        year: 2017
-
-      - title: Dynamic Gene Regulatory Networks of Human Myeloid Differentiation
-        author: Ramirez, Ricardo N and El-Ali, Nicole C and Mager, Mikayla Anne and Wyman, Dana and Conesa, Ana and Mortazavi, Ali
-        journal: Cell Systems
-        year: 2017
-
-      - title: Prevention of C5aR1 signaling delays microglial inflammatory polarization, favors clearance pathways and suppresses cognitive loss
-        author: Hernandez, Michael X and Jiang, Shan and Cole, Tracy A and Chu, Shu-Hui and Fonseca, Maria I and Fang, Melody J and Hohsfield, Lindsay A and Torres, Maria D and Green, Kim N and Wetsel, Rick A and others
-        journal: Molecular neurodegeneration
-        year: 2017
-
-      - title: Comparative transcriptomics of Steinernema and Caenorhabditis single embryos reveals orthologous gene expression convergence during late embryogenesis
-        author: Macchietto, Marissa and Angdembey, Dristi and Heidarpour, Negar and Serra, Lorrayne and Rodriguez, Bryan and El-Ali, Nicole and Mortazavi, Ali
-        journal: Genome Biology and Evolution
-        year: 2017
-
-      - title: Prostaglandin E2 leads to the acquisition of DNMT3A-dependent tolerogenic functions in human myeloid-derived suppressor cells
-        author: Rodr{\'\i}guez-Ubreva, Javier and Catal{\`a}-Moll, Francesc and Obermajer, Nata{\v{s}}a and {\'A}lvarez-Errico, Damiana and Ramirez, Ricardo N and Vento-Tormo, Roser and Moreno-Bueno, Gema and Edwards, Robert P and Mortazavi, Ali and Kalinski, Pawel and others
-        journal: Cell reports
-        year: 2017
-
-      - title: Regeneration of fat cells from myofibroblasts during wound healing
-        author: Plikus, Maksim V and Guerrero-Juarez, Christian F and Ito, Mayumi and Li, Yun Rose and Dedhia, Priya H and Zheng, Ying and Shao, Mengle and Gay, Denise L and Ramos, Raul and Hsi, Tsai-Ching and others
-        journal: Science
-        year: 2017
-
-      - title: A survey of best practices for RNA-seq data analysis
-        author: Conesa, Ana and Madrigal, Pedro and Tarazona, Sonia and Gomez-Cabrero, David and Cervera, Alejandra and McPherson, Andrew and Szcze{\'s}niak, Micha{\l} Wojciech and Gaffney, Daniel J and Elo, Laura L and Zhang, Xuegong and others
-        journal: Genome biology
-        year: 2016
-
-      - title: Single-nucleus RNA-seq of differentiating human myoblasts reveals the extent of fate heterogeneity
-        author: Zeng, Weihua and Jiang, Shan and Kong, Xiangduo and El-Ali, Nicole and Ball Jr, Alexander R and Ma, Christopher I-Hsing and Hashimoto, Naohiro and Yokomori, Kyoko and Mortazavi, Ali
-        journal: Nucleic acids research
-        year: 2016
-
-      - title: Comparative genomics of Steinernema reveals deeply conserved gene regulatory networks
-        author: Dillman, Adler R and Macchietto, Marissa and Porter, Camille F and Rogers, Alicia and Williams, Brian and Antoshechkin, Igor and Lee, Ming-Min and Goodwin, Zane and Lu, Xiaojun and Lewis, Edwin E and others
-        journal: Genome biology
-        year: 2015
-
-      - title: Better together; multiplexing samples to improve the preparation and reliability of gene expression studies
-        author: Mortazavi, Ali
-        journal: Nature methods
-        year: 2015
-
-      - title: The common ground of genomics and systems biology
-        author: Conesa, Ana and Mortazavi, Ali
-        journal: BMC systems biology
-        year: 2014
-
-      - title: A comparative encyclopedia of DNA elements in the mouse genome
-        author: Yue, Feng and Cheng, Yong and Breschi, Alessandra and Vierstra, Jeff and Wu, Weisheng and Ryba, Tyrone and Sandstrom, Richard and Ma, Zhihai and Davis, Carrie and Pope, Benjamin D and others
-        journal: Nature
-        year: 2014
-
-      - title: Extensive transcriptional response associated with seasonal plasticity of butterfly wing patterns
-        author: Daniels, Emily V and Murad, Rabi and Mortazavi, Ali and Reed, Robert D
-        journal: Molecular ecology
-        year: 2014
-
-      - title: Comparative analysis of the transcriptome across distant species
-        author: Gerstein, Mark B and Rozowsky, Joel and Yan, Koon-Kiu and Wang, Daifeng and Cheng, Chao and Brown, James B and Davis, Carrie A and Hillier, LaDeana and Sisu, Cristina and Li, Jingyi Jessica and others
-        journal: Nature
-        year: 2014
-
-      - title: Genetic and Epigenetic Characteristics of FSHD-Associated 4q and 10q D4Z4 that are Distinct from Non-4q/10q D4Z4 Homologs
-        author: Zeng, Weihua and Chen, Yen-Yun and Newkirk, Daniel A and Wu, Beibei and Balog, Judit and Kong, Xiangduo and Ball Jr, Alexander R and Zanotti, Simona and Tawil, Rabi and Hashimoto, Naohiro and others
-        journal: Human mutation
-        year: 2014
-
-      - title: Genome-wide identification and functional analysis of Apobec-1-mediated C-to-U RNA editing in mouse small intestine and liver
-        author: Blanc, Valerie and Park, Eddie and Schaefer, Sabine and Miller, Melanie and Lin, Yiing and Kennedy, Susan and Billing, Anja M and Hamidane, Hisham Ben and Graumann, Johannes and Mortazavi, Ali and others
-        journal: Genome biology
-        year: 2014
-
-      - title: Integrating and mining the chromatin landscape of cell-type specificity using self-organizing maps
-        author: Mortazavi, Ali and Pepke, Shirley and Jansen, Camden and Marinov, Georgi K and Ernst, Jason and Kellis, Manolis and Hardison, Ross C and Myers, Richard M and Wold, Barbara J
-        journal: Genome research
-        year: 2013
-
-      - title: Assessment of transcript reconstruction methods for RNA-seq
-        author: Steijger, Tamara and Abril, Josep F and Engstr{\"o}m, P{\"a}r G and Kokocinski, Felix and Akerman, Martin and Alioto, Tyler and Ambrosini, Giovanna and Antonarakis, Stylianos E and Behr, Jonas and Bertone, Paul and others
-        journal: Nature methods
-        year: 2013
-
-      - title: The draft genome and transcriptome of Panagrellus redivivus are shaped by the harsh demands of a free-living lifestyle
-        author: Srinivasan, Jagan and Dillman, Adler R and Macchietto, Marissa G and Heikkinen, Liisa and Lakso, Merja and Fracchia, Kelley M and Antoshechkin, Igor and Mortazavi, Ali and Wong, Garry and Sternberg, Paul W
-        journal: Genetics
-        year: 2013
-
-      - title: An encyclopedia of mouse DNA elements (Mouse ENCODE)
-        author: Stamatoyannopoulos, John A and Snyder, Michael and Hardison, Ross and Ren, Bing and Gingeras, Thomas and Gilbert, David M and Groudine, Mark and Bender, Michael and Kaul, Rajinder and Canfield, Theresa and others
-        journal: Genome Biology
-        year: 2012
-
-      - title: Technical considerations for functional sequencing assays
-        author: Zeng, Weihua and Mortazavi, Ali
-        journal: Nature immunology
-        year: 2012
-
-      - title: Landscape of transcription in human cells
-        author: Djebali, Sarah and Davis, Carrie A and Merkel, Angelika and Dobin, Alex and Lassmann, Timo and Mortazavi, Ali and Tanzer, Andrea and Lagarde, Julien and Lin, Wei and Schlesinger, Felix and others
-        journal: Nature
-        year: 2012
-
-      - title: RNA editing in the human ENCODE RNA-seq data
-        author: Park, Eddie and Williams, Brian and Wold, Barbara J and Mortazavi, Ali
-        journal: Genome Research
-        year: 2012
-
-      - title: Extensive promoter-centered chromatin interactions provide a topological basis for transcription regulation
-        author: Li, Guoliang and Ruan, Xiaoan and Auerbach, Raymond K and Sandhu, Kuljeet Singh and Zheng, Meizhen and Wang, Ping and Poh, Huay Mei and Goh, Yufen and Lim, Joanne and Zhang, Jingyao and others
-        journal: Cell
-        year: 2012
-
-      - title: Incorporating Genomics into the Toolkit of Nematology
-        author: Dillman, Adler R and Mortazavi, Ali and Sternberg, Paul W
-        journal: Journal of Nematology
-        year: 2012
-
-      - title: Dynamic Transformations of Genome-wide Epigenetic Marking and Transcriptional Control Establish T Cell Identity
-        author: Zhang, Jingli A and Mortazavi, Ali and Williams, Brian A and Wold, Barbara J and Rothenberg, Ellen V
-        journal: Cell
-        year: 2012
-
-      - title: An integrated encyclopedia of DNA elements in the human genome
-        author: ENCODE Project Consortium and others
-        journal: Nature
-        year: 2012
-
-      - title: Effects of sequence variation on differential allelic transcription factor occupancy and gene expression
-        author: Reddy, Timothy E and Gertz, Jason and Pauli, Florencia and Kucera, Katerina S and Varley, Katherine E and Newberry, Kimberly M and Marinov, Georgi K and Mortazavi, Ali and Williams, Brian A and Song, Lingyun and others
-        journal: Genome research
-        year: 2012
-
-      - title: A user's guide to the encyclopedia of DNA elements (ENCODE)
-        author: ENCODE Project Consortium
-        journal: PLoS biology
-        year: 2011
-
-      - title: Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation
-        author: Trapnell, Cole and Williams, Brian A and Pertea, Geo and Mortazavi, Ali and Kwan, Gordon and Van Baren, Marijke J and Salzberg, Steven L and Wold, Barbara J and Pachter, Lior
-        journal: Nature biotechnology
-        year: 2010
-
-      - title: Scaffolding a Caenorhabditis nematode genome with RNA-seq
-        author: Mortazavi, Ali and Schwarz, Erich M and Williams, Brian and Schaeffer, Lorian and Antoshechkin, Igor and Wold, Barbara J and Sternberg, Paul W
-        journal: Genome research
-        year: 2010
-
-      - title: Computation for ChIP-seq and RNA-seq studies
-        author: Pepke, Shirley and Wold, Barbara and Mortazavi, Ali
-        journal: Nature methods
-        year: 2009
-
-      - title: Mapping and quantifying mammalian transcriptomes by RNA-Seq
-        author: Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara
-        journal: Nature methods
-        year: 2008
-
-      - title: A highly conserved molecular switch binds MSY-3 to regulate myogenin repression in postnatal muscle
-        author: Berghella, Libera and De Angelis, Luciana and De Buysscher, Tristan and Mortazavi, Ali and Biressi, Stefano and Forcales, Sonia V and Sirabella, Dario and Cossu, Giulio and Wold, Barbara J
-        journal: Genes \& development
-        year: 2008
-
-      - title: Genome-wide mapping of in vivo protein-DNA interactions
-        author: Johnson, David S and Mortazavi, Ali and Myers, Richard M and Wold, Barbara
-        journal: Science
-        year: 2007
-
-      - title: Mining gene expression data by interpreting principal components
-        author: Roden, Joseph C and King, Brandon W and Trout, Diane and Mortazavi, Ali and Wold, Barbara J and Hart, Christopher E
-        journal: BMC bioinformatics
-        year: 2006
-
-      - title: Comparative genomics modeling of the NRSF/REST repressor network; from single conserved sites to genome-wide repertoire
-        author: Mortazavi, Ali and Thompson, Evonne Chen Leeper and Garcia, Sarah T and Myers, Richard M and Wold, Barbara
-        journal: Genome research
-        year: 2006
-
-      - title: Systematic phenotyping and characterization of the 5xFAD mouse model of Alzheimer’s
-        author: Forner, Stefania and Kawauchi, Shimako and Balderrama-Gutierrez, Gabriela and Kram{\'a}r, Enik{\"o} A and Matheos, Dina P and Phan, Jimmy and Javonillo, Dominic I and Tran, Kristine M and Hingco, Edna and da Cunha, Celia and other
-        journal: 
-        year: 0
-
+<li>
+<h4>Long-read sequencing transcriptome quantification with lr-kallisto</h4>
+<h6>Loving, Rebekah K and Sullivan, Delaney K and Reese, Fairlie and Rebboah, Elisabeth and Sakr, Jasmine and Rezaie, Narges and Liang, Heidi Y and Filimban, Ghassan and Kawauchi, Shimako and Oakes, Conrad and others</h6>
+<p class="text-muted">bioRxiv, 2024</p>
+<br />
+</li><li>
+<h4>Systematic assessment of long-read RNA-seq methods for transcript identification and quantification</h4>
+<h6>Pardo-Palacios, Francisco J and Wang, Dingjie and Reese, Fairlie and Diekhans, Mark and Carbonell-Sala, S{\'\i}lvia and Williams, Brian and Loveland, Jane E and De Mar{\'\i}a, Maite and Adams, Matthew S and Balderrama-Gutierrez, Gabriela and others</h6>
+<p class="text-muted">Nature methods, 2024</p>
+<br />
+</li><li>
+<h4>The ENCODE mouse postnatal developmental time course identifies regulatory programs of cell types and cell states</h4>
+<h6>Rebboah, Elisabeth and Rezaie, Narges and Williams, Brian A and Weimer, Annika K and Shi, Minyi and Yang, Xinqiong and Liang, Heidi Yahan and Dionne, Louise and Reese, Fairlie and Trout, Diane and others</h6>
+<p class="text-muted">bioRxiv, 2024</p>
+<br />
+</li><li>
+<h4>Single-cell spatial transcriptomics reveals a dystrophic trajectory following a developmental bifurcation of myoblast cell fates in facioscapulohumeral muscular dystrophy</h4>
+<h6>Chen, Lujia and Kong, Xiangduo and Johnston, Kevin G and Mortazavi, Ali and Holmes, Todd C and Tan, Zhiqun and Yokomori, Kyoko and Xu, Xiangmin</h6>
+<p class="text-muted">Genome Research, 2024</p>
+<br />
+</li><li>
+<h4>Individual longitudinal changes in DNA-methylome identify signatures of early-life adversity and correlate with later outcome.</h4>
+<h6>Short, Annabel K and Weber, Ryan and Kamei, Noriko and Thai, Christina Wilcox and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura and Baram, Tallie Z</h6>
+<p class="text-muted">Neurobiology of Stress, 2024</p>
+<br />
+</li><li>
+<h4>Identification of robust cellular programs using reproducible LDA that impact sex-specific disease progression in different genotypes of a mouse model of AD</h4>
+<h6>Rezaie, Narges and Rebboah, Elisabeth and Williams, Brian A and Liang, Heidi Yahan and Reese, Fairlie and Balderrama-Gutierrez, Gabriela and Dionne, Louise A and Reinholdt, Laura and Trout, Diane and Wold, Barbara J and others</h6>
+<p class="text-muted">bioRxiv, 2024</p>
+<br />
+</li><li>
+<h4>The Abca7V1613M variant reduces A$\beta$ generation, plaque load, and neuronal damage</h4>
+<h6>Butler, Claire A and Mendoza Arvilla, Adrian and Milinkeviciute, Giedre and Da Cunha, Celia and Kawauchi, Shimako and Rezaie, Narges and Liang, Heidi Y and Javonillo, Dominic and Thach, Annie and Wang, Shuling and others</h6>
+<p class="text-muted">Alzheimer's \& Dementia, 2024</p>
+<br />
+</li><li>
+<h4>BIN1K358R suppresses glial response to plaques in mouse model of Alzheimer's disease</h4>
+<h6>Garcia-Agudo, Laura Fernandez and Shi, Zechuan and Smith, Ian F and Kram{\'a}r, Enik{\"o} A and Tran, Katelynn and Kawauchi, Shimako and Wang, Shuling and Collins, Sherilyn and Walker, Amber and Shi, Kai-Xuan and others</h6>
+<p class="text-muted">Alzheimer's \& Dementia, 2024</p>
+<br />
+</li><li>
+<h4>Genetic diversity promotes resilience in a mouse model of Alzheimer's disease</h4>
+<h6>Soni, Neelakshi and Hohsfield, Lindsay A and Tran, Kristine M and Kawauchi, Shimako and Walker, Amber and Javonillo, Dominic and Phan, Jimmy and Matheos, Dina and Da Cunha, Celia and Uyar, Asli and others</h6>
+<p class="text-muted">Alzheimer's \& Dementia, 2024</p>
+<br />
+</li><li>
+<h4>Engineered FSHD mutations results in D4Z4 heterochromatin disruption and feedforward DUX4 network activation</h4>
+<h6>Kong, Xiangduo and Nguyen, Nam Viet and Li, Yumeng and Sakr, Jasmine Shaaban and Williams, Kate and Sharifi, Sheila and Chau, Jonathan and Bayrakci, Altay and Mizuno, Seiya and Takahashi, Satoru and others</h6>
+<p class="text-muted">Iscience, 2024</p>
+<br />
+</li><li>
+<h4>The ENCODE4 long-read RNA-seq collection reveals distinct classes of transcript structure diversity</h4>
+<h6>Reese, Fairlie and Williams, Brian and Balderrama-Gutierrez, Gabriela and Wyman, Dana and {\c{C}}elik, Muhammed Hasan and Rebboah, Elisabeth and Rezaie, Narges and Trout, Diane and Razavi-Mohseni, Milad and Jiang, Yunzhe and others</h6>
+<p class="text-muted">bioRxiv, 2023</p>
+<br />
+</li><li>
+<h4>Single-cell transcriptional changes in hypothalamic corticotropin-releasing factor--expressing neurons after early-life adversity inform enduring alterations in vulnerabilities to stress</h4>
+<h6>Short, Annabel K and Thai, Christina W and Chen, Yuncai and Kamei, Noriko and Pham, Aidan L and Birnie, Matthew T and Bolton, Jessica L and Mortazavi, Ali and Baram, Tallie Z</h6>
+<p class="text-muted">Biological Psychiatry Global Open Science, 2023</p>
+<br />
+</li><li>
+<h4>PyWGCNA; A Python package for weighted gene co-expression network analysis</h4>
+<h6>Rezaie, Narges and Reese, Farilie and Mortazavi, Ali</h6>
+<p class="text-muted">Bioinformatics, 2023</p>
+<br />
+</li><li>
+<h4>The EN-TEx resource of multi-tissue personal epigenomes \& variant-impact models</h4>
+<h6>Rozowsky, Joel and Gao, Jiahao and Borsari, Beatrice and Yang, Yucheng T and Galeev, Timur and G{\"u}rsoy, Gamze and Epstein, Charles B and Xiong, Kun and Xu, Jinrui and Li, Tianxiao and others</h6>
+<p class="text-muted">Cell, 2023</p>
+<br />
+</li><li>
+<h4>The ENCODE uniform analysis pipelines</h4>
+<h6>Hitz, Benjamin C and Lee, Jin-Wook and Jolanki, Otto and Kagda, Meenakshi S and Graham, Keenan and Sud, Paul and Gabdank, Idan and Strattan, J Seth and Sloan, Cricket A and Dreszer, Timothy and others</h6>
+<p class="text-muted">Research Square, 2023</p>
+<br />
+</li><li>
+<h4>Within-subject changes in methylome profile identify individual signatures of early-life adversity, with a potential to predict neuropsychiatric outcome</h4>
+<h6>Short, Annabel K and Weber, Ryan and Kamei, Noriko and Thai, Christina Wilcox and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura and Baram, Tallie Z</h6>
+<p class="text-muted">bioRxiv, 2023</p>
+<br />
+</li><li>
+<h4>Signalling by senescent melanocytes hyperactivates hair growth</h4>
+<h6>Wang, Xiaojie and Ramos, Raul and Phan, Anne Q and Yamaga, Kosuke and Flesher, Jessica L and Jiang, Shan and Oh, Ji Won and Jin, Suoqin and Jahid, Sohail and Kuan, Chen-Hsiang and others</h6>
+<p class="text-muted">Nature, 2023</p>
+<br />
+</li><li>
+<h4>C5aR1 antagonism suppresses inflammatory glial gene expression and alters cellular signaling in an aggressive Alzheimer’s model</h4>
+<h6>Schartz, Nicole D and Liang, Heidi Y and Carvalho, Klebea and Chu, Shu-Hui and Mendoza-Arvilla, Adrian and Petrisko, Tiffany J and Gomez-Arboledas, Angela and Mortazavi, Ali and Tenner, Andrea J</h6>
+<p class="text-muted">bioRxiv, 2023</p>
+<br />
+</li><li>
+<h4>Within-subject changes in DNA-methylome profile identify individual signatures of early-life adversity, with a potential to predict neuropsychiatric outcome.</h4>
+<h6>Short, Annabel K and Weber, Ryan L and Kamei, Noriko and Wilcox-Thai, Christina and Arora, Hina and Mortazavi, Ali and Stern, Hal S and Glynn, Laura L and Baram, Tallie Z</h6>
+<p class="text-muted">bioRxiv, 2023</p>
+<br />
+</li><li>
+<h4>A Trem2 R47H mouse model without cryptic splicing drives age-and disease-dependent tissue damage and synaptic loss in response to plaques</h4>
+<h6>Tran, Kristine M and Kawauchi, Shimako and Kram{\'a}r, Enik{\"o} A and Rezaie, Narges and Liang, Heidi Yahan and Sakr, Jasmine S and Gomez-Arboledas, Angela and Arreola, Miguel A and Cunha, Celia da and Phan, Jimmy and others</h6>
+<p class="text-muted">Molecular neurodegeneration, 2023</p>
+<br />
+</li><li>
+<h4>L-GIREMI uncovers RNA editing sites in long-read RNA-seq</h4>
+<h6>Liu, Zhiheng and Quinones-Valdez, Giovanni and Fu, Ting and Huang, Elaine and Choudhury, Mudra and Reese, Fairlie and Mortazavi, Ali and Xiao, Xinshu</h6>
+<p class="text-muted">Genome Biology, 2023</p>
+<br />
+</li><li>
+<h4>Systematic phenotyping and characterization of the 3xTg-AD mouse model of Alzheimer’s disease</h4>
+<h6>Javonillo, Dominic I and Tran, Kristine M and Phan, Jimmy and Hingco, Edna and Kram{\'a}r, Enik{\"o} A and da Cunha, Celia and Forner, Stefania and Kawauchi, Shimako and Milinkeviciute, Giedre and Gomez-Arboledas, Angela and others</h6>
+<p class="text-muted">Frontiers in Neuroscience, 2022</p>
+<br />
+</li><li>
+<h4>Disruption of $\beta$-Catenin--Dependent Wnt Signaling in Colon Cancer Cells Remodels the Microenvironment to Promote Tumor Invasion</h4>
+<h6>Chen, George T and Tifrea, Delia F and Murad, Rabi and Habowski, Amber N and Lyou, Yung and Duong, Madeleine R and Hosohama, Linzi and Mortazavi, Ali and Edwards, Robert A and Waterman, Marian L</h6>
+<p class="text-muted">Molecular Cancer Research, 2022</p>
+<br />
+</li><li>
+<h4>Uncovering the mesendoderm gene regulatory network through multi-omic data integration</h4>
+<h6>Jansen, Camden and Paraiso, Kitt D and Zhou, Jeff J and Blitz, Ira L and Fish, Margaret B and Charney, Rebekah M and Cho, Jin Sun and Yasuoka, Yuuri and Sudou, Norihiro and Bright, Ann Rose and others</h6>
+<p class="text-muted">Cell reports, 2022</p>
+<br />
+</li><li>
+<h4>Multiple mechanisms of photoreceptor spectral tuning in Heliconius butterflies</h4>
+<h6>McCulloch, Kyle J and Macias-Mu{\~n}oz, Aide and Mortazavi, Ali and Briscoe, Adriana D</h6>
+<p class="text-muted">Molecular biology and evolution, 2022</p>
+<br />
+</li><li>
+<h4>Integration of high-resolution promoter profiling assays reveals novel, cell type--specific transcription start sites across 115 human cell and tissue types</h4>
+<h6>Moore, Jill E and Zhang, Xiao-Ou and Elhajjajy, Shaimae I and Fan, Kaili and Pratt, Henry E and Reese, Fairlie and Mortazavi, Ali and Weng, Zhiping</h6>
+<p class="text-muted">Genome Research, 2022</p>
+<br />
+</li><li>
+<h4>Heterogeneous skeletal muscle cell and nucleus populations identified by single-cell and single-nucleus resolution transcriptome assays</h4>
+<h6>Williams, Katherine and Yokomori, Kyoko and Mortazavi, Ali</h6>
+<p class="text-muted">Frontiers in Genetics, 2022</p>
+<br />
+</li><li>
+<h4>Single cell analysis reveals the molecular signaling and cellular composition of the regenerating Hydra head</h4>
+<h6>Macias-Mu{\~n}oz, A and Mesrop, LY and Liang, HY and Mortazavi, A</h6>
+<p class="text-muted">, 2022</p>
+<br />
+</li><li>
+<h4>C5aR1 antagonism alters microglial polarization and mitigates disease progression in a mouse model of Alzheimer’s disease</h4>
+<h6>Gomez-Arboledas, Angela and Carvalho, Klebea and Balderrama-Gutierrez, Gabriela and Chu, Shu-Hui and Liang, Heidi Yahan and Schartz, Nicole D and Selvan, Purnika and Petrisko, Tiffany J and Pan, Miranda A and Mortazavi, Ali and others</h6>
+<p class="text-muted">Acta neuropathologica communications, 2022</p>
+<br />
+</li><li>
+<h4>Integrative analysis of Hydra head regeneration reveals actions of conserved signaling pathways and transposable elements</h4>
+<h6>Macias-Mu{\~n}oz, Aide and Mesrop, Lisa Y and Liang, Heidi Yahan and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2022</p>
+<br />
+</li><li>
+<h4>Engineered SMCHD1 and D4Z4 mutations reveal roles of D4Z4 heterochromatin disruption and feedforward DUX4 network activation in FSHD</h4>
+<h6>Kong, Xiangduo and Nguyen, Nam Viet and Li, Yumeng and Sakr, Jasmine Shaaban and Williams, Katherine and Sharifi, Sheila and Chau, Jonathan and Bayrakci, Altay and Mizuno, Seiya and Takahashi, Satoru and others</h6>
+<p class="text-muted">bioRxiv, 2022</p>
+<br />
+</li><li>
+<h4>Analysis of alternative polyadenylation from long-read or short-read RNA-seq with LAPA</h4>
+<h6>{\c{C}}elik, Muhammed Hasan and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2022</p>
+<br />
+</li><li>
+<h4>Modulation of C5a--C5aR1 signaling alters the dynamics of AD progression</h4>
+<h6>Carvalho, Klebea and Schartz, Nicole D and Balderrama-Gutierrez, Gabriela and Liang, Heidi Y and Chu, Shu-Hui and Selvan, Purnika and Gomez-Arboledas, Angela and Petrisko, Tiffany J and Fonseca, Maria I and Mortazavi, Ali and others</h6>
+<p class="text-muted">Journal of neuroinflammation, 2022</p>
+<br />
+</li><li>
+<h4>Linking chromosomal silencing with xist expression from autosomal integrated transgenes</h4>
+<h6>Naciri, Ikrame and Lin, Benjamin and Webb, Chiu-Ho and Jiang, Shan and Carmona, Sarah and Liu, Wenzhu and Mortazavi, Ali and Sun, Sha</h6>
+<p class="text-muted">Frontiers in Cell and Developmental Biology, 2021</p>
+<br />
+</li><li>
+<h4>Swan; a library for the analysis and visualization of long-read transcriptomes</h4>
+<h6>Reese, Fairlie and Mortazavi, Ali</h6>
+<p class="text-muted">Bioinformatics, 2021</p>
+<br />
+</li><li>
+<h4>A revised adaptation of the smart-Seq2 protocol for single-nematode RNA-seq</h4>
+<h6>Chang, Dennis and Serra, Lorrayne and Lu, Dihong and Mortazavi, Ali and Dillman, Adler</h6>
+<p class="text-muted">RNA Abundance Analysis; Methods and Protocols, 2021</p>
+<br />
+</li><li>
+<h4>Uncovering the gene regulatory networks underlying macrophage polarization through comparative analysis of bulk and single-cell data</h4>
+<h6>Carvalho, Klebea and Rebboah, Elisabeth and Jansen, Camden and Williams, Katherine and Dowey, Andrew and McGill, Cassandra and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2021</p>
+<br />
+</li><li>
+<h4>Comparative Chromatin Dynamics of Stem Cell Differentiation in Human and Rat</h4>
+<h6>Thai, Christina Wilcox and Jiang, Shan and Roxas, Yuka and McGill, Cassandra and Ma, Savanna and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2021</p>
+<br />
+</li><li>
+<h4>Systematic phenotyping and characterization of the 5xFAD mouse model of Alzheimer’s disease</h4>
+<h6>Forner, Stefania and Kawauchi, Shimako and Balderrama-Gutierrez, Gabriela and Kram{\'a}r, Enik{\"o} A and Matheos, Dina P and Phan, Jimmy and Javonillo, Dominic I and Tran, Kristine M and Hingco, Edna and da Cunha, Celia and others</h6>
+<p class="text-muted">Scientific data, 2021</p>
+<br />
+</li><li>
+<h4>Subventricular zone/white matter microglia reconstitute the empty adult microglial niche in a dynamic wave</h4>
+<h6>Hohsfield, Lindsay A and Najafi, Allison R and Ghorbanian, Yasamine and Soni, Neelakshi and Crapser, Joshua and Velez, Dario X Figueroa and Jiang, Shan and Royer, Sarah E and Kim, Sung Jin and Henningfield, Caden M and others</h6>
+<p class="text-muted">Elife, 2021</p>
+<br />
+</li><li>
+<h4>Generation of a humanized A$\beta$ expressing mouse demonstrating aspects of Alzheimer’s disease-like pathology</h4>
+<h6>Baglietto-Vargas, David and Forner, Stefania and Cai, Lena and Martini, Alessandra C and Trujillo-Estrada, Laura and Swarup, Vivek and Nguyen, Marie Minh Thu and Do Huynh, Kelly and Javonillo, Dominic I and Tran, Kristine Minh and others</h6>
+<p class="text-muted">Nature communications, 2021</p>
+<br />
+</li><li>
+<h4>Transcriptome analysis of heterogeneity in mouse model of metastatic breast cancer</h4>
+<h6>Ionkina, Anastasia A and Balderrama-Gutierrez, Gabriela and Ibanez, Krystian J and Phan, Steve Huy D and Cortez, Angelique N and Mortazavi, Ali and Prescher, Jennifer A</h6>
+<p class="text-muted">Breast Cancer Research, 2021</p>
+<br />
+</li><li>
+<h4>Mapping and modeling the genomic basis of differential RNA isoform expression at single-cell resolution with LR-Split-seq</h4>
+<h6>Rebboah, Elisabeth and Reese, Fairlie and Williams, Katherine and Balderrama-Gutierrez, Gabriela and McGill, Cassandra and Trout, Diane and Rodriguez, Isaryhia and Liang, Heidi and Wold, Barbara J and Mortazavi, Ali</h6>
+<p class="text-muted">Genome biology, 2021</p>
+<br />
+</li><li>
+<h4>An infection-tolerant mammalian reservoir for several zoonotic agents broadly counters the inflammatory effects of endotoxin</h4>
+<h6>Balderrama-Gutierrez, Gabriela and Milovic, Ana and Cook, Vanessa J and Islam, M Nurul and Zhang, Youwen and Kiaris, Hippokratis and Belisle, John T and Mortazavi, Ali and Barbour, Alan G</h6>
+<p class="text-muted">Mbio, 2021</p>
+<br />
+</li><li>
+<h4>Muscle group specific transcriptomic and DNA methylation differences related to developmental patterning in FSHD</h4>
+<h6>Williams, Katherine and Kong, Xiangduo and Nguyen, Nam Viet and McGill, Cassandra and Tawil, Rabi and Yokomori, Kyoko and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2021</p>
+<br />
+</li><li>
+<h4>A Bioinformatics Pipeline for Investigating Molecular Evolution and Gene Expression using RNA-seq</h4>
+<h6>Macias-Mu{\~n}oz, Aide and Mortazavi, Ali</h6>
+<p class="text-muted">JoVE (Journal of Visualized Experiments), 2021</p>
+<br />
+</li><li>
+<h4>Coordinated gene expression and chromatin regulation during Hydra head regeneration</h4>
+<h6>Murad, Rabi and Macias-Mu{\~n}oz, Aide and Wong, Ashley and Ma, Xinyi and Mortazavi, Ali</h6>
+<p class="text-muted">Genome Biology and Evolution, 2021</p>
+<br />
+</li><li>
+<h4>Diverse functional elements in RNA predicted transcriptome-wide by orthogonal RNA structure probing</h4>
+<h6>Chan, Dalen and Feng, Chao and England, Whitney E and Wyman, Dana and Flynn, Ryan A and Wang, Xiuye and Shi, Yongsheng and Mortazavi, Ali and Spitale, Robert C</h6>
+<p class="text-muted">Nucleic Acids Research, 2021</p>
+<br />
+</li><li>
+<h4>Relationship of DUX4 and target gene expression in FSHD myocytes</h4>
+<h6>Chau, Jonathan and Kong, Xiangduo and Viet Nguyen, Nam and Williams, Katherine and Ball, Miya and Tawil, Rabi and Kiyono, Tohru and Mortazavi, Ali and Yokomori, Kyoko</h6>
+<p class="text-muted">Human Mutation, 2021</p>
+<br />
+</li><li>
+<h4>Single-cell and nucleus RNA-seq in a mouse model of AD reveal activation of distinct glial subpopulations in the presence of plaques and tangles</h4>
+<h6>Balderrama-Gutierrez, Gabriela and Liang, Heidi and Rezaie, Narges and Carvalho, Klebea and Forner, Stefania and Matheos, Dina and Rebboah, Elisabeth and Green, Kim N and Tenner, Andrea J and LaFerla, Frank and others</h6>
+<p class="text-muted">bioRxiv, 2021</p>
+<br />
+</li><li>
+<h4>Microglial dyshomeostasis drives perineuronal net and synaptic loss in a CSF1R+/- mouse model of ALSP, which can be rescued via CSF1R inhibitors</h4>
+<h6>Arreola, Miguel A and Soni, Neelakshi and Crapser, Joshua D and Hohsfield, Lindsay A and Elmore, Monica RP and Matheos, Dina P and Wood, Marcelo A and Swarup, Vivek and Mortazavi, Ali and Green, Kim N</h6>
+<p class="text-muted">Science Advances, 2021</p>
+<br />
+</li><li>
+<h4>Transcriptome and chromatin landscape changes associated with trastuzumab resistance in HER2+ breast cancer cells</h4>
+<h6>Murad, Rabi and Avanes, Arabo and Ma, Xinyi and Geng, Shuhui and Mortazavi, Ali and Momand, Jamil</h6>
+<p class="text-muted">Gene, 2021</p>
+<br />
+</li><li>
+<h4>Single-nucleus RNA-seq identifies divergent populations of FSHD2 myotube nuclei</h4>
+<h6>Jiang, Shan and Williams, Katherine and Kong, Xiangduo and Zeng, Weihua and Nguyen, Nam Viet and Ma, Xinyi and Tawil, Rabi and Yokomori, Kyoko and Mortazavi, Ali</h6>
+<p class="text-muted">PLoS genetics, 2020</p>
+<br />
+</li><li>
+<h4>Unexpected transcriptional programs contribute to hippocampal memory deficits and neuronal stunting after early-life adversity</h4>
+<h6>Bolton, Jessica L and Schulmann, Anton and Garcia-Curran, Megan M and Regev, Limor and Chen, Yuncai and Kamei, Noriko and Shao, Manlin and Singh-Taylor, Akanksha and Jiang, Shan and Noam, Yoav and others</h6>
+<p class="text-muted">Cell reports, 2020</p>
+<br />
+</li><li>
+<h4>Slug regulates the Dll4-Notch-VEGFR2 axis to control endothelial cell activation and angiogenesis</h4>
+<h6>Hultgren, Nan W and Fang, Jennifer S and Ziegler, Mary E and Ramirez, Ricardo N and Phan, Duc TT and Hatch, Michaela MS and Welch-Reardon, Katrina M and Paniagua, Antonio E and Kim, Lin S and Shon, Nathan N and others</h6>
+<p class="text-muted">Nature communications, 2020</p>
+<br />
+</li><li>
+<h4>Comparative transcriptomics of heads and tails between Steinernema carpocapsae and Caenorhabditis elegans</h4>
+<h6>Rodriguez, Isaryhia Maya and Clague, Lorrayne Serra and McGill, Cassandra Joan and Rodriguez, Bryan and Mortazavi, Ali</h6>
+<p class="text-muted">bioRxiv, 2020</p>
+<br />
+</li><li>
+<h4>Long-TUC-seq is a robust method for quantification of metabolically labeled full-length isoforms</h4>
+<h6>Rahmanian, Sorena and Balderrama-Gutierrez, Gabriela and Wyman, Dana and McGill, Cassandra Joan and Nguyen, Kim and Spitale, Robert and Mortazavi, Ali</h6>
+<p class="text-muted">BioRxiv, 2020</p>
+<br />
+</li><li>
+<h4>Progressive Clustering and Characterization of Increasingly Higher Dimensional Datasets with Living Self-organizing Maps</h4>
+<h6>Jansen, Camden and Mortazavi, Ali</h6>
+<p class="text-muted">, 2020</p>
+<br />
+</li><li>
+<h4>Occupancy maps of 208 chromatin-associated proteins in one human cell type</h4>
+<h6>Partridge, E Christopher and Chhetri, Surya B and Prokop, Jeremy W and Ramaker, Ryne C and Jansen, Camden S and Goh, Say-Tar and Mackiewicz, Mark and Newberry, Kimberly M and Brandsmeier, Laurel A and Meadows, Sarah K and others</h6>
+<p class="text-muted">Nature, 2020</p>
+<br />
+</li><li>
+<h4>Expanded encyclopaedias of DNA elements in the human and mouse genomes</h4>
+<h6>Moore, Jill E and Purcaro, Michael J and Pratt, Henry E and Epstein, Charles B and Shoresh, Noam and Adrian, Jessika and Kawli, Trupti and Davis, Carrie A and Dobin, Alexander and Kaul, Rajinder and others</h6>
+<p class="text-muted">Nature, 2020</p>
+<br />
+</li><li>
+<h4>Perspectives on ENCODE</h4>
+<h6>Addleman, NJ and Adrian, J and Baymuradov, UK and Bhaskar, A and Boley, N and Cao, L and Chaib, H and Chan, ET and Chen, S and Cherry, JM and others</h6>
+<p class="text-muted">Nature, 2020</p>
+<br />
+</li><li>
+<h4>Intra-individual changes in methylome profiles; an epigenetic ‘scar’of early-life adversity?</h4>
+<h6>Mortazavi, Ali and Baram, Tallie Z</h6>
+<p class="text-muted">Neuropsychopharmacology, 2020</p>
+<br />
+</li><li>
+<h4>Model organism development and evaluation for late-onset Alzheimer's disease; MODEL-AD</h4>
+<h6>Oblak, Adrian L and Forner, Stefania and Territo, Paul R and Sasner, Michael and Carter, Gregory W and Howell, Gareth R and Sukoff-Rizzo, Stacey J and Logsdon, Benjamin A and Mangravite, Lara M and Mortazavi, Ali and others</h6>
+<p class="text-muted">Alzheimer's \& Dementia; Translational Research \& Clinical Interventions, 2020</p>
+<br />
+</li><li>
+<h4>Molecular evolution and expression of opsin genes in Hydra vulgaris</h4>
+<h6>Macias-Mu{\~n}oz, Aide and Murad, Rabi and Mortazavi, Ali</h6>
+<p class="text-muted">BMC genomics, 2019</p>
+<br />
+</li><li>
+<h4>Intra-individual methylomics detects the impact of early-life adversity</h4>
+<h6>Jiang, Shan and Kamei, Noriko and Bolton, Jessica L and Ma, Xinyi and Stern, Hal S and Baram, Tallie Z and Mortazavi, Ali</h6>
+<p class="text-muted">Life science alliance, 2019</p>
+<br />
+</li><li>
+<h4>A technology-agnostic long-read analysis pipeline for transcriptome discovery and quantification</h4>
+<h6>Wyman, Dana and Balderrama-Gutierrez, Gabriela and Reese, Fairlie and Jiang, Shan and Rahmanian, Sorena and Forner, Stefania and Matheos, Dina and Zeng, Weihua and Williams, Brian and Trout, Diane and others</h6>
+<p class="text-muted">Biorxiv, 2019</p>
+<br />
+</li><li>
+<h4>STATegra, a comprehensive multi-omics dataset of B-cell differentiation in mouse</h4>
+<h6>Gomez-Cabrero, David and Tarazona, Sonia and Ferreir{\'o}s-Vidal, Isabel and Ramirez, Ricardo N and Company, Carlos and Schmidt, Andreas and Reijmers, Theo and Paul, Veronica von Saint and Marabita, Francesco and Rodr{\'\i}guez-Ubreva, Javier and others</h6>
+<p class="text-muted">Scientific Data, 2019</p>
+<br />
+</li><li>
+<h4>A core set of venom proteins is released by entomopathogenic nematodes in the genus Steinernema</h4>
+<h6>Chang, Dennis Z and Serra, Lorrayne and Lu, Dihong and Mortazavi, Ali and Dillman, Adler R</h6>
+<p class="text-muted">PLoS pathogens, 2019</p>
+<br />
+</li><li>
+<h4>miR-128 Restriction of LINE-1 (L1) Retrotransposition Is Dependent on Targeting hnRNPA1 mRNA</h4>
+<h6>Fung, Lianna and Guzman, Herlinda and Sevrioukov, Evgueni and Idica, Adam and Park, Eddie and Bochnakian, Aurore and Daugaard, Iben and Jury, Douglas and Mortazavi, Ali and Zisoulis, Dimitrios G and others</h6>
+<p class="text-muted">International journal of molecular sciences, 2019</p>
+<br />
+</li><li>
+<h4>Feedforward regulation of Myc coordinates lineage-specific with housekeeping gene expression during B cell progenitor cell differentiation</h4>
+<h6>Ferreir{\'o}s-Vidal, Isabel and Carroll, Thomas and Zhang, Tianyi and Lagani, Vincenzo and Ramirez, Ricardo N and Ing-Simmons, Elizabeth and G{\'o}mez-Valad{\'e}s, Alicia G and Cooper, Lee and Liang, Ziwei and Papoutsoglou, Georgios and others</h6>
+<p class="text-muted">PLoS biology, 2019</p>
+<br />
+</li><li>
+<h4>Hybrid assembly of the genome of the entomopathogenic nematode Steinernema carpocapsae identifies the X-chromosome</h4>
+<h6>Serra, Lorrayne and Macchietto, Marissa and Macias-Mu{\~n}oz, Aide and McGill, Cassandra Joan and Rodriguez, Isaryhia Maya and Rodriguez, Bryan and Murad, Rabi and Mortazavi, Ali</h6>
+<p class="text-muted">G3; Genes, Genomes, Genetics, 2019</p>
+<br />
+</li><li>
+<h4>Dynamics of microRNA expression during mouse prenatal development</h4>
+<h6>Rahmanian, Sorena and Murad, Rabi and Breschi, Alessandra and Zeng, Weihua and Mackiewicz, Mark and Williams, Brian and Davis, Carrie and Roberts, Brian and Meadows, Sarah and Moore, Dianne and others</h6>
+<p class="text-muted">, 2019</p>
+<br />
+</li><li>
+<h4>The genome of Peromyscus leucopus, natural host for Lyme disease and other emerging infections</h4>
+<h6>Long, Anthony D and Baldwin-Brown, James and Tao, Yuan and Cook, Vanessa J and Balderrama-Gutierrez, Gabriela and Corbett-Detig, Russell and Mortazavi, Ali and Barbour, Alan G</h6>
+<p class="text-muted">Science Advances, 2019</p>
+<br />
+</li><li>
+<h4>Building gene regulatory networks from scATAC-seq and scRNA-seq using Linked Self Organizing Maps</h4>
+<h6>Jansen, Camden and Ramirez, Ricardo N and El-Ali, Nicole C and Gomez-Cabrero, David and Tegner, Jesper and Merkenschlager, Matthias and Conesa, Ana and Mortazavi, Ali</h6>
+<p class="text-muted">PLoS computational biology, 2019</p>
+<br />
+</li><li>
+<h4>SQANTI; extensive characterization of long-read transcript sequences for quality control in full-length transcriptome identification and quantification</h4>
+<h6>Tardaguila, Manuel and de la Fuente, Lorena and Marti, Cristina and Pereira, C{\'e}cile and Pardo-Palacios, Francisco Jose and del Risco, Hector and Ferrell, Marc and Mellado, Maravillas and Macchietto, Marissa and Verheggen, Kenneth and others</h6>
+<p class="text-muted">Genome research, 2018</p>
+<br />
+</li><li>
+<h4>Wound regeneration deficit in rats correlates with low morphogenetic potential and distinct transcriptome profile of epidermis</h4>
+<h6>Guerrero-Juarez, Christian F and Astrowski, Aliaksandr A and Murad, Rabi and Dang, Christina T and Shatrova, Vera O and Astrowskaja, Aksana and Lim, Chae Ho and Ramos, Raul and Wang, Xiaojie and Liu, Yuchen and others</h6>
+<p class="text-muted">Journal of Investigative Dermatology, 2018</p>
+<br />
+</li><li>
+<h4>TCF7L1 suppresses primitive streak gene expression to support human embryonic stem cell pluripotency</h4>
+<h6>Sierra, Robert A and Hoverter, Nathan P and Ramirez, Ricardo N and Vuong, Linh M and Mortazavi, Ali and Merrill, Bradley J and Waterman, Marian L and Donovan, Peter J</h6>
+<p class="text-muted">Development, 2018</p>
+<br />
+</li><li>
+<h4>Integrating ChIP-seq with other functional genomics data</h4>
+<h6>Jiang, Shan and Mortazavi, Ali</h6>
+<p class="text-muted">Briefings in functional genomics, 2018</p>
+<br />
+</li><li>
+<h4>Adapting the smart-seq2 protocol for robust single worm RNA-seq</h4>
+<h6>Serra, Lorrayne and Chang, Dennis Z and Macchietto, Marissa and Williams, Katherine and Murad, Rabi and Lu, Dihong and Dillman, Adler R and Mortazavi, Ali</h6>
+<p class="text-muted">Bio-protocol, 2018</p>
+<br />
+</li><li>
+<h4>TranscriptClean; Variant-aware correction of indels, mismatches, and splice junctions in long-read transcripts</h4>
+<h6>Wyman, Dana and Mortazavi, Ali</h6>
+<p class="text-muted">Bioinformatics, 2018</p>
+<br />
+</li><li>
+<h4>NRSF-dependent epigenetic mechanisms contribute to programming of stress-sensitive neurons by neonatal experience, promoting resilience</h4>
+<h6>Singh-Taylor, Akanksha and Molet, Jenny and Jiang, Shan and Korosi, Aniko and Bolton, Jessica L and Noam, Yoav and Simeone, Kristina and Cope, Jessica and Chen, Yuncai and Mortazavi, Ali and others</h6>
+<p class="text-muted">Molecular psychiatry, 2018</p>
+<br />
+</li><li>
+<h4>Spatially Restricting Bioorthogonal Nucleoside Biosynthesis Enables Selective Metabolic Labeling of the Mitochondrial Transcriptome</h4>
+<h6>Nguyen, Kim and Aggarwal, Mahima B and Feng, Chao and Balderrama, Gabriela and Fazio, Michael and Mortazavi, Ali and Spitale, Robert C</h6>
+<p class="text-muted">ACS chemical biology, 2018</p>
+<br />
+</li><li>
+<h4>A limited capacity for microglial repopulation in the adult brain</h4>
+<h6>Najafi, Allison R and Crapser, Joshua and Jiang, Shan and Ng, Winnie and Mortazavi, Ali and West, Brian L and Green, Kim N</h6>
+<p class="text-muted">Glia, 2018</p>
+<br />
+</li><li>
+<h4>Blocking NRSF Function Rescues Spatial Memory Impaired by Early-Life Adversity and Reveals Unexpected Underlying Transcriptional Programs</h4>
+<h6>Schulmann, Anton and Bolton, Jessica L and Curran, Megan M and Regev, Limor and Kamei, Noriko and Singh-Taylor, Akanksha and Jiang, Shan and Molet, Jenny and Mortazavi, Ali and Baram, Tallie Z</h6>
+<p class="text-muted">Available at SSRN 3284454, 2018</p>
+<br />
+</li><li>
+<h4>Bcl11b and combinatorial resolution of cell fate in the T-cell gene regulatory network</h4>
+<h6>Longabaugh, William JR and Zeng, Weihua and Zhang, Jingli A and Hosokawa, Hiroyuki and Jansen, Camden S and Li, Long and Romero-Wolf, Maile and Liu, Pentao and Kueh, Hao Yuan and Mortazavi, Ali and others</h6>
+<p class="text-muted">Proceedings of the National Academy of Sciences, 2017</p>
+<br />
+</li><li>
+<h4>Activated entomopathogenic nematode infective juveniles release lethal venom proteins</h4>
+<h6>Lu, Dihong and Macchietto, Marissa and Chang, Dennis and Barros, Mirayana M and Baldwin, James and Mortazavi, Ali and Dillman, Adler R</h6>
+<p class="text-muted">PLoS Pathogens, 2017</p>
+<br />
+</li><li>
+<h4>iPSC-Derived Human Microglia-like Cells to Study Neurological Diseases</h4>
+<h6>Abud, Edsel M and Ramirez, Ricardo N and Martinez, Eric S and Healy, Luke M and Nguyen, Cecilia HH and Newman, Sean A and Yeromin, Andriy V and Scarfone, Vanessa M and Marsh, Samuel E and Fimbres, Cristhian and others</h6>
+<p class="text-muted">Neuron, 2017</p>
+<br />
+</li><li>
+<h4>Dynamic Gene Regulatory Networks of Human Myeloid Differentiation</h4>
+<h6>Ramirez, Ricardo N and El-Ali, Nicole C and Mager, Mikayla Anne and Wyman, Dana and Conesa, Ana and Mortazavi, Ali</h6>
+<p class="text-muted">Cell Systems, 2017</p>
+<br />
+</li><li>
+<h4>Prevention of C5aR1 signaling delays microglial inflammatory polarization, favors clearance pathways and suppresses cognitive loss</h4>
+<h6>Hernandez, Michael X and Jiang, Shan and Cole, Tracy A and Chu, Shu-Hui and Fonseca, Maria I and Fang, Melody J and Hohsfield, Lindsay A and Torres, Maria D and Green, Kim N and Wetsel, Rick A and others</h6>
+<p class="text-muted">Molecular neurodegeneration, 2017</p>
+<br />
+</li><li>
+<h4>Comparative transcriptomics of Steinernema and Caenorhabditis single embryos reveals orthologous gene expression convergence during late embryogenesis</h4>
+<h6>Macchietto, Marissa and Angdembey, Dristi and Heidarpour, Negar and Serra, Lorrayne and Rodriguez, Bryan and El-Ali, Nicole and Mortazavi, Ali</h6>
+<p class="text-muted">Genome Biology and Evolution, 2017</p>
+<br />
+</li><li>
+<h4>Prostaglandin E2 leads to the acquisition of DNMT3A-dependent tolerogenic functions in human myeloid-derived suppressor cells</h4>
+<h6>Rodr{\'\i}guez-Ubreva, Javier and Catal{\`a}-Moll, Francesc and Obermajer, Nata{\v{s}}a and {\'A}lvarez-Errico, Damiana and Ramirez, Ricardo N and Vento-Tormo, Roser and Moreno-Bueno, Gema and Edwards, Robert P and Mortazavi, Ali and Kalinski, Pawel and others</h6>
+<p class="text-muted">Cell reports, 2017</p>
+<br />
+</li><li>
+<h4>Regeneration of fat cells from myofibroblasts during wound healing</h4>
+<h6>Plikus, Maksim V and Guerrero-Juarez, Christian F and Ito, Mayumi and Li, Yun Rose and Dedhia, Priya H and Zheng, Ying and Shao, Mengle and Gay, Denise L and Ramos, Raul and Hsi, Tsai-Ching and others</h6>
+<p class="text-muted">Science, 2017</p>
+<br />
+</li><li>
+<h4>A survey of best practices for RNA-seq data analysis</h4>
+<h6>Conesa, Ana and Madrigal, Pedro and Tarazona, Sonia and Gomez-Cabrero, David and Cervera, Alejandra and McPherson, Andrew and Szcze{\'s}niak, Micha{\l} Wojciech and Gaffney, Daniel J and Elo, Laura L and Zhang, Xuegong and others</h6>
+<p class="text-muted">Genome biology, 2016</p>
+<br />
+</li><li>
+<h4>Single-nucleus RNA-seq of differentiating human myoblasts reveals the extent of fate heterogeneity</h4>
+<h6>Zeng, Weihua and Jiang, Shan and Kong, Xiangduo and El-Ali, Nicole and Ball Jr, Alexander R and Ma, Christopher I-Hsing and Hashimoto, Naohiro and Yokomori, Kyoko and Mortazavi, Ali</h6>
+<p class="text-muted">Nucleic acids research, 2016</p>
+<br />
+</li><li>
+<h4>Comparative genomics of Steinernema reveals deeply conserved gene regulatory networks</h4>
+<h6>Dillman, Adler R and Macchietto, Marissa and Porter, Camille F and Rogers, Alicia and Williams, Brian and Antoshechkin, Igor and Lee, Ming-Min and Goodwin, Zane and Lu, Xiaojun and Lewis, Edwin E and others</h6>
+<p class="text-muted">Genome biology, 2015</p>
+<br />
+</li><li>
+<h4>Better together; multiplexing samples to improve the preparation and reliability of gene expression studies</h4>
+<h6>Mortazavi, Ali</h6>
+<p class="text-muted">Nature methods, 2015</p>
+<br />
+</li><li>
+<h4>The common ground of genomics and systems biology</h4>
+<h6>Conesa, Ana and Mortazavi, Ali</h6>
+<p class="text-muted">BMC systems biology, 2014</p>
+<br />
+</li><li>
+<h4>A comparative encyclopedia of DNA elements in the mouse genome</h4>
+<h6>Yue, Feng and Cheng, Yong and Breschi, Alessandra and Vierstra, Jeff and Wu, Weisheng and Ryba, Tyrone and Sandstrom, Richard and Ma, Zhihai and Davis, Carrie and Pope, Benjamin D and others</h6>
+<p class="text-muted">Nature, 2014</p>
+<br />
+</li><li>
+<h4>Extensive transcriptional response associated with seasonal plasticity of butterfly wing patterns</h4>
+<h6>Daniels, Emily V and Murad, Rabi and Mortazavi, Ali and Reed, Robert D</h6>
+<p class="text-muted">Molecular ecology, 2014</p>
+<br />
+</li><li>
+<h4>Comparative analysis of the transcriptome across distant species</h4>
+<h6>Gerstein, Mark B and Rozowsky, Joel and Yan, Koon-Kiu and Wang, Daifeng and Cheng, Chao and Brown, James B and Davis, Carrie A and Hillier, LaDeana and Sisu, Cristina and Li, Jingyi Jessica and others</h6>
+<p class="text-muted">Nature, 2014</p>
+<br />
+</li><li>
+<h4>Genetic and Epigenetic Characteristics of FSHD-Associated 4q and 10q D4Z4 that are Distinct from Non-4q/10q D4Z4 Homologs</h4>
+<h6>Zeng, Weihua and Chen, Yen-Yun and Newkirk, Daniel A and Wu, Beibei and Balog, Judit and Kong, Xiangduo and Ball Jr, Alexander R and Zanotti, Simona and Tawil, Rabi and Hashimoto, Naohiro and others</h6>
+<p class="text-muted">Human mutation, 2014</p>
+<br />
+</li><li>
+<h4>Genome-wide identification and functional analysis of Apobec-1-mediated C-to-U RNA editing in mouse small intestine and liver</h4>
+<h6>Blanc, Valerie and Park, Eddie and Schaefer, Sabine and Miller, Melanie and Lin, Yiing and Kennedy, Susan and Billing, Anja M and Hamidane, Hisham Ben and Graumann, Johannes and Mortazavi, Ali and others</h6>
+<p class="text-muted">Genome biology, 2014</p>
+<br />
+</li><li>
+<h4>Integrating and mining the chromatin landscape of cell-type specificity using self-organizing maps</h4>
+<h6>Mortazavi, Ali and Pepke, Shirley and Jansen, Camden and Marinov, Georgi K and Ernst, Jason and Kellis, Manolis and Hardison, Ross C and Myers, Richard M and Wold, Barbara J</h6>
+<p class="text-muted">Genome research, 2013</p>
+<br />
+</li><li>
+<h4>Assessment of transcript reconstruction methods for RNA-seq</h4>
+<h6>Steijger, Tamara and Abril, Josep F and Engstr{\"o}m, P{\"a}r G and Kokocinski, Felix and Akerman, Martin and Alioto, Tyler and Ambrosini, Giovanna and Antonarakis, Stylianos E and Behr, Jonas and Bertone, Paul and others</h6>
+<p class="text-muted">Nature methods, 2013</p>
+<br />
+</li><li>
+<h4>The draft genome and transcriptome of Panagrellus redivivus are shaped by the harsh demands of a free-living lifestyle</h4>
+<h6>Srinivasan, Jagan and Dillman, Adler R and Macchietto, Marissa G and Heikkinen, Liisa and Lakso, Merja and Fracchia, Kelley M and Antoshechkin, Igor and Mortazavi, Ali and Wong, Garry and Sternberg, Paul W</h6>
+<p class="text-muted">Genetics, 2013</p>
+<br />
+</li><li>
+<h4>An encyclopedia of mouse DNA elements (Mouse ENCODE)</h4>
+<h6>Stamatoyannopoulos, John A and Snyder, Michael and Hardison, Ross and Ren, Bing and Gingeras, Thomas and Gilbert, David M and Groudine, Mark and Bender, Michael and Kaul, Rajinder and Canfield, Theresa and others</h6>
+<p class="text-muted">Genome Biology, 2012</p>
+<br />
+</li><li>
+<h4>Technical considerations for functional sequencing assays</h4>
+<h6>Zeng, Weihua and Mortazavi, Ali</h6>
+<p class="text-muted">Nature immunology, 2012</p>
+<br />
+</li><li>
+<h4>Landscape of transcription in human cells</h4>
+<h6>Djebali, Sarah and Davis, Carrie A and Merkel, Angelika and Dobin, Alex and Lassmann, Timo and Mortazavi, Ali and Tanzer, Andrea and Lagarde, Julien and Lin, Wei and Schlesinger, Felix and others</h6>
+<p class="text-muted">Nature, 2012</p>
+<br />
+</li><li>
+<h4>RNA editing in the human ENCODE RNA-seq data</h4>
+<h6>Park, Eddie and Williams, Brian and Wold, Barbara J and Mortazavi, Ali</h6>
+<p class="text-muted">Genome Research, 2012</p>
+<br />
+</li><li>
+<h4>Extensive promoter-centered chromatin interactions provide a topological basis for transcription regulation</h4>
+<h6>Li, Guoliang and Ruan, Xiaoan and Auerbach, Raymond K and Sandhu, Kuljeet Singh and Zheng, Meizhen and Wang, Ping and Poh, Huay Mei and Goh, Yufen and Lim, Joanne and Zhang, Jingyao and others</h6>
+<p class="text-muted">Cell, 2012</p>
+<br />
+</li><li>
+<h4>Incorporating Genomics into the Toolkit of Nematology</h4>
+<h6>Dillman, Adler R and Mortazavi, Ali and Sternberg, Paul W</h6>
+<p class="text-muted">Journal of Nematology, 2012</p>
+<br />
+</li><li>
+<h4>Dynamic Transformations of Genome-wide Epigenetic Marking and Transcriptional Control Establish T Cell Identity</h4>
+<h6>Zhang, Jingli A and Mortazavi, Ali and Williams, Brian A and Wold, Barbara J and Rothenberg, Ellen V</h6>
+<p class="text-muted">Cell, 2012</p>
+<br />
+</li><li>
+<h4>An integrated encyclopedia of DNA elements in the human genome</h4>
+<h6>ENCODE Project Consortium and others</h6>
+<p class="text-muted">Nature, 2012</p>
+<br />
+</li><li>
+<h4>Effects of sequence variation on differential allelic transcription factor occupancy and gene expression</h4>
+<h6>Reddy, Timothy E and Gertz, Jason and Pauli, Florencia and Kucera, Katerina S and Varley, Katherine E and Newberry, Kimberly M and Marinov, Georgi K and Mortazavi, Ali and Williams, Brian A and Song, Lingyun and others</h6>
+<p class="text-muted">Genome research, 2012</p>
+<br />
+</li><li>
+<h4>A user's guide to the encyclopedia of DNA elements (ENCODE)</h4>
+<h6>ENCODE Project Consortium</h6>
+<p class="text-muted">PLoS biology, 2011</p>
+<br />
+</li><li>
+<h4>Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation</h4>
+<h6>Trapnell, Cole and Williams, Brian A and Pertea, Geo and Mortazavi, Ali and Kwan, Gordon and Van Baren, Marijke J and Salzberg, Steven L and Wold, Barbara J and Pachter, Lior</h6>
+<p class="text-muted">Nature biotechnology, 2010</p>
+<br />
+</li><li>
+<h4>Scaffolding a Caenorhabditis nematode genome with RNA-seq</h4>
+<h6>Mortazavi, Ali and Schwarz, Erich M and Williams, Brian and Schaeffer, Lorian and Antoshechkin, Igor and Wold, Barbara J and Sternberg, Paul W</h6>
+<p class="text-muted">Genome research, 2010</p>
+<br />
+</li><li>
+<h4>Computation for ChIP-seq and RNA-seq studies</h4>
+<h6>Pepke, Shirley and Wold, Barbara and Mortazavi, Ali</h6>
+<p class="text-muted">Nature methods, 2009</p>
+<br />
+</li><li>
+<h4>Mapping and quantifying mammalian transcriptomes by RNA-Seq</h4>
+<h6>Mortazavi, Ali and Williams, Brian A and McCue, Kenneth and Schaeffer, Lorian and Wold, Barbara</h6>
+<p class="text-muted">Nature methods, 2008</p>
+<br />
+</li><li>
+<h4>A highly conserved molecular switch binds MSY-3 to regulate myogenin repression in postnatal muscle</h4>
+<h6>Berghella, Libera and De Angelis, Luciana and De Buysscher, Tristan and Mortazavi, Ali and Biressi, Stefano and Forcales, Sonia V and Sirabella, Dario and Cossu, Giulio and Wold, Barbara J</h6>
+<p class="text-muted">Genes \& development, 2008</p>
+<br />
+</li><li>
+<h4>Genome-wide mapping of in vivo protein-DNA interactions</h4>
+<h6>Johnson, David S and Mortazavi, Ali and Myers, Richard M and Wold, Barbara</h6>
+<p class="text-muted">Science, 2007</p>
+<br />
+</li><li>
+<h4>Mining gene expression data by interpreting principal components</h4>
+<h6>Roden, Joseph C and King, Brandon W and Trout, Diane and Mortazavi, Ali and Wold, Barbara J and Hart, Christopher E</h6>
+<p class="text-muted">BMC bioinformatics, 2006</p>
+<br />
+</li><li>
+<h4>Comparative genomics modeling of the NRSF/REST repressor network; from single conserved sites to genome-wide repertoire</h4>
+<h6>Mortazavi, Ali and Thompson, Evonne Chen Leeper and Garcia, Sarah T and Myers, Richard M and Wold, Barbara</h6>
+<p class="text-muted">Genome research, 2006</p>
+<br />
+</li><li>
+<h4>Systematic phenotyping and characterization of the 5xFAD mouse model of Alzheimer’s</h4>
+<h6>Forner, Stefania and Kawauchi, Shimako and Balderrama-Gutierrez, Gabriela and Kram{\'a}r, Enik{\"o} A and Matheos, Dina P and Phan, Jimmy and Javonillo, Dominic I and Tran, Kristine M and Hingco, Edna and da Cunha, Celia and other</h6>
+<p class="text-muted">, 0</p>
+<br />
+</li>
